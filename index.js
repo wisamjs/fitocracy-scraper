@@ -188,9 +188,7 @@ nightmare
             }
 
           })
-          if (comments) {
-            console.log(id);
-          }
+
           workoutExercises.push({
             id: id,
             exerciseId: exerciseId,
@@ -220,7 +218,7 @@ nightmare
   })
   .end()
     .then(function (result) {
-      fs.writeFile('data.json', JSON.stringify(result), 'utf8');
+      fs.writeFile('data.json', JSON.stringify(result, null, '\t'), 'utf8');
     })
     .catch(function (error) {
       console.error('Error:', error);
