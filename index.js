@@ -1,3 +1,5 @@
+'use strict';
+
 var CONSTANTS = require('./constants');
 var username = CONSTANTS.username;
 var password = CONSTANTS.password;
@@ -25,16 +27,81 @@ nightmare
   .click(activities)
   .wait(2000)
   .evaluate(function () {
-    var result = [];
-      var contentTest;
-    document.querySelectorAll('.stream_item')
-    .forEach(function(element) {
       var exercises = [];
+    var dates = [];
+    var workouts = [];
 
+
+    function addToExercises(name) {
+      var id = exercises.length;
+      exercises.push({
+        id: id,
+        name: name
+      });
+
+      return id;
+    }
+
+    function addToWorkoutDates(date) {
+      var id = dates.length;
+      dates.push({
+        id: id,
+        date: date
+      });
+      return id;
+    }
+
+    function getIdForDate(date) {
+      var request = dates.filter(function(workout) {
+        return workout.date === date;
+      });
+
+      if (request.length) {
+        return request[0].id;
+      } else {
+        return null;
+      }
+    }
+
+    function getIdForExercise(name) {
+      var request = exercises.filter(function(exercise) {
+        return exercise.name === name;
+      });
+
+      if (request.length) {
+        return request[0].id;
+      } else {
+        return null;
+      }
+    }
+
+    function isUniqueExercise(name) {
+
+      return exercises.filter(function (exercise) {
+        return exercise.name === name;
+      }).length === 0;
+
+    }
+
+    function isUniqueWorkoutDate(date){
+      return dates.filter(function(workout){
+        return workout.date === date;
+      }).length === 0;
+    }
+    
+    document.querySelectorAll('.stream_item')
+    .forEach(function(element, workoutId) {
       var date = element.querySelector('.stream-item-headline').querySelector('.gray_link').text;
-      var workout = element.querySelectorAll('.stream-item-content .action .action_detail>li');
+      var workoutExercises = [];
+      if (isUniqueWorkoutDate(date)){
+        var dateId = addToWorkoutDates(date);
+     } else {
+        var dateId = getIdForDate(date);
+     }
 
-      workout.forEach(function(exercise){
+      var exercises = element.querySelectorAll('.stream-item-content .action .action_detail>li');
+
+      exercises.forEach(function(exercise, id){
         var name = exercise.querySelector('.action_prompt').textContent;
         var content = '';
         var contentElements = exercise.querySelectorAll('ul li');
@@ -43,54 +110,68 @@ nightmare
           content += element.textContent;
         })
 
-      var reps = content.match(/\d reps/g);
-      var weights = content.match(/(\d*) lb/g);
+      var reps = content.match(/(\d*) reps/g);
+      var weights = content.match(/(\d*) lb/g) || '';
       var words = content.match(/((\D )\D*)/g) || [];
       var comments = words[words.length - 1] || '';
       var readableComments = comments.replace(/  /g, '');
-
       if (weights && reps) {
 
         var sets = weights.map(function(weight, i) {
           return {
-            weight: weight,
+            weight: parseInt(weight.slice(0,-3)),
             reps: reps[i],
+            unit: weight.slice(-2)
           }
 
         })
       } else if (!weights && reps) {
         var sets = {
-          weight: null,
+          weight: 0,
+          unit: 'bodyweight',
           reps: reps
         }
       } else if (!reps && weights) {
         var sets = {
-          weight: weights,
+          weight: parseInt(weight.slice(0,-3)),
+          unit: weight.slice(-2),
           reps: null
         }
       } else {
-        var sets = {weight: null, reps: null}
+        var sets = {weight: null, reps: null, unit: null}
       }
 
-      var exercise = {
-        name: name,
-        comments: comments,
-        sets:sets
+        if (isUniqueExercise(name)){
+          var exerciseId = addToExercises(name);
+        } else {
+          var exerciseId = getIdForExercise(name);
+        }
+
+        workoutExercises.push({
+          id: id,
+          exerciseId: exerciseId,
+          sets: sets
+        })
+      })
+
+      workout = {
+        id: workoutId,
+        dateId: dateId,
+        exercises: workoutExercises
       }
-      exercises.push(exercise)
 
-    } )
-
-    result.push({
-      date: date,
-      exercises: exercises
-    })
-
+      workouts.push(workout);
 
   })
 
 
-  return JSON.stringify(result);
+
+  return {
+    workouts: workouts,
+    exercises: exercises,
+    dates: dates
+
+  }
 })
   .end()
     .then(function (result) {
