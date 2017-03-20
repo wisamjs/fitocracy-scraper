@@ -28,6 +28,7 @@ nightmare
   .wait(2000)
   .evaluate(function () {
       var setId = 0;
+      var workoutId = 0;
       var result = {};
       var workingExercises = [];
       var workingSets = [];
@@ -134,7 +135,7 @@ nightmare
       }
       
       document.querySelectorAll('.stream_item')
-      .forEach(function(element, workoutId) {
+      .forEach(function(element) {
         var date = element.querySelector('.stream-item-headline').querySelector('.gray_link').text;
         var workoutExercises = [];
         if (isUniqueWorkoutDate(date)){
@@ -183,7 +184,8 @@ nightmare
             sets.push(setId);
             if (set){
               set.exerciseId = exerciseId;
-              set.dateId = dateId;
+              set.workoutId = workoutId;
+              // set.dateId = dateId;
               workingSets.push(set);
             }
 
@@ -204,7 +206,7 @@ nightmare
         }
 
         workouts.push(workout);
-
+        workoutId++;
       })
 
       result = {
