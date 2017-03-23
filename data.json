@@ -1,197 +1,201 @@
 {
 	"dates": [
 		{
-			"date": "Today",
+			"date": "Mar 23, 2017",
 			"id": 0
 		},
 		{
-			"date": "Mar 18, 2017",
+			"date": "Mar 20, 2017",
 			"id": 1
 		},
 		{
-			"date": "Mar 16, 2017",
+			"date": "Mar 18, 2017",
 			"id": 2
 		},
 		{
-			"date": "Mar 13, 2017",
+			"date": "Mar 16, 2017",
 			"id": 3
 		},
 		{
-			"date": "Mar 11, 2017",
+			"date": "Mar 13, 2017",
 			"id": 4
 		},
 		{
-			"date": "Mar 9, 2017",
+			"date": "Mar 11, 2017",
 			"id": 5
 		},
 		{
-			"date": "Mar 6, 2017",
+			"date": "Mar 9, 2017",
 			"id": 6
 		},
 		{
-			"date": "Mar 4, 2017",
+			"date": "Mar 6, 2017",
 			"id": 7
 		},
 		{
-			"date": "Mar 2, 2017",
+			"date": "Mar 4, 2017",
 			"id": 8
 		},
 		{
-			"date": "Feb 27, 2017",
+			"date": "Mar 2, 2017",
 			"id": 9
 		},
 		{
-			"date": "Feb 24, 2017",
+			"date": "Feb 27, 2017",
 			"id": 10
 		},
 		{
-			"date": "Feb 22, 2017",
+			"date": "Feb 24, 2017",
 			"id": 11
 		},
 		{
-			"date": "Feb 20, 2017",
+			"date": "Feb 22, 2017",
 			"id": 12
 		},
 		{
-			"date": "Feb 18, 2017",
+			"date": "Feb 20, 2017",
 			"id": 13
 		},
 		{
-			"date": "Feb 16, 2017",
+			"date": "Feb 18, 2017",
 			"id": 14
 		}
 	],
 	"exercises": [
 		{
 			"id": 0,
-			"name": "Barbell Squat"
-		},
-		{
-			"id": 1,
-			"name": "Barbell Bench Press"
-		},
-		{
-			"id": 2,
-			"name": "Bent Over Barbell Row"
-		},
-		{
-			"id": 3,
-			"name": "Chin-Up"
-		},
-		{
-			"id": 4,
-			"name": "Triceps Pushdown"
-		},
-		{
-			"id": 5,
 			"name": "Barbell Deadlift"
 		},
 		{
-			"id": 6,
-			"name": "Standing Barbell Shoulder Press (OHP)"
+			"id": 1,
+			"name": "Bent Over Barbell Row"
 		},
 		{
-			"id": 7,
-			"name": "Close-Grip Barbell Bench Press"
-		},
-		{
-			"id": 8,
-			"name": "Barbell Shrug"
-		},
-		{
-			"id": 9,
-			"name": " Group A "
-		},
-		{
-			"id": 10,
-			"name": "EZ-Bar Curl"
-		},
-		{
-			"id": 11,
+			"id": 2,
 			"name": "Pull-Up"
 		},
 		{
-			"id": 12,
+			"id": 3,
 			"name": "T-Bar Row"
 		},
 		{
-			"id": 13,
-			"name": "Hammer Dumbbell Curl"
+			"id": 4,
+			"name": "Barbell Shrug"
 		},
 		{
-			"id": 14,
-			"name": " Group B "
+			"id": 5,
+			"name": " Group A "
 		},
 		{
-			"id": 15,
-			"name": "Dumbbell Bench Press"
-		},
-		{
-			"id": 16,
-			"name": "Incline Dumbbell Bench Press"
-		},
-		{
-			"id": 17,
-			"name": "Cable Crossover"
-		},
-		{
-			"id": 18,
-			"name": "Arnold Dumbbell Press"
-		},
-		{
-			"id": 19,
-			"name": "Standing Overhead Barbell Triceps Extension"
-		},
-		{
-			"id": 20,
-			"name": "Standing Front Barbell Raise Over Head"
-		},
-		{
-			"id": 21,
-			"name": "Cable Seated Lateral Raise"
-		},
-		{
-			"id": 22,
-			"name": "Reverse Grip Triceps Pushdown"
-		},
-		{
-			"id": 23,
-			"name": "Stiff-Legged Barbell Deadlift"
-		},
-		{
-			"id": 24,
-			"name": "Barbell Hip Thrust"
-		},
-		{
-			"id": 25,
-			"name": "Front Barbell Squat"
-		},
-		{
-			"id": 26,
-			"name": "Leg Extensions"
-		},
-		{
-			"id": 27,
-			"name": "Seated Calf Raise"
-		},
-		{
-			"id": 28,
-			"name": "Standing Calf Raise"
-		},
-		{
-			"id": 29,
-			"name": "Barbell Curl"
-		},
-		{
-			"id": 30,
-			"name": "Alternate Hammer Dumbbell  Curl"
-		},
-		{
-			"id": 31,
+			"id": 6,
 			"name": "Reverse Barbell Curl"
 		},
 		{
+			"id": 7,
+			"name": "Hammer Dumbbell Curl"
+		},
+		{
+			"id": 8,
+			"name": "Seated Palm-Up Barbell Wrist Curl"
+		},
+		{
+			"id": 9,
+			"name": "Barbell Squat"
+		},
+		{
+			"id": 10,
+			"name": "Barbell Bench Press"
+		},
+		{
+			"id": 11,
+			"name": "Chin-Up"
+		},
+		{
+			"id": 12,
+			"name": "Triceps Pushdown"
+		},
+		{
+			"id": 13,
+			"name": "Standing Barbell Shoulder Press (OHP)"
+		},
+		{
+			"id": 14,
+			"name": "Close-Grip Barbell Bench Press"
+		},
+		{
+			"id": 15,
+			"name": "EZ-Bar Curl"
+		},
+		{
+			"id": 16,
+			"name": " Group B "
+		},
+		{
+			"id": 17,
+			"name": "Dumbbell Bench Press"
+		},
+		{
+			"id": 18,
+			"name": "Incline Dumbbell Bench Press"
+		},
+		{
+			"id": 19,
+			"name": "Cable Crossover"
+		},
+		{
+			"id": 20,
+			"name": "Arnold Dumbbell Press"
+		},
+		{
+			"id": 21,
+			"name": "Standing Overhead Barbell Triceps Extension"
+		},
+		{
+			"id": 22,
+			"name": "Standing Front Barbell Raise Over Head"
+		},
+		{
+			"id": 23,
+			"name": "Cable Seated Lateral Raise"
+		},
+		{
+			"id": 24,
+			"name": "Reverse Grip Triceps Pushdown"
+		},
+		{
+			"id": 25,
+			"name": "Stiff-Legged Barbell Deadlift"
+		},
+		{
+			"id": 26,
+			"name": "Barbell Hip Thrust"
+		},
+		{
+			"id": 27,
+			"name": "Front Barbell Squat"
+		},
+		{
+			"id": 28,
+			"name": "Leg Extensions"
+		},
+		{
+			"id": 29,
+			"name": "Seated Calf Raise"
+		},
+		{
+			"id": 30,
+			"name": "Standing Calf Raise"
+		},
+		{
+			"id": 31,
+			"name": "Barbell Curl"
+		},
+		{
 			"id": 32,
+			"name": "Alternate Hammer Dumbbell  Curl"
+		},
+		{
+			"id": 33,
 			"name": "Machine Chest Press"
 		}
 	],
@@ -201,71 +205,71 @@
 			"id": 0,
 			"reps": 5,
 			"units": "lb",
-			"weight": 135,
+			"weight": 215,
 			"workoutId": 0
 		},
 		{
 			"exerciseId": 0,
 			"id": 1,
-			"reps": 5,
+			"reps": 3,
 			"units": "lb",
-			"weight": 155,
+			"weight": 235,
 			"workoutId": 0
 		},
 		{
 			"exerciseId": 0,
 			"id": 2,
-			"reps": 3,
+			"reps": 2,
 			"units": "lb",
-			"weight": 175,
+			"weight": 265,
 			"workoutId": 0
 		},
 		{
 			"exerciseId": 0,
 			"id": 3,
-			"reps": 2,
+			"reps": 5,
 			"units": "lb",
-			"weight": 195,
+			"weight": 295,
 			"workoutId": 0
 		},
 		{
 			"exerciseId": 0,
 			"id": 4,
-			"reps": 5,
+			"reps": 2,
 			"units": "lb",
-			"weight": 220,
+			"weight": 315,
 			"workoutId": 0
 		},
 		{
 			"exerciseId": 0,
 			"id": 5,
+			"reps": 7,
+			"units": "lb",
+			"weight": 255,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 1,
+			"id": 6,
 			"reps": 5,
 			"units": "lb",
-			"weight": 220,
+			"weight": 105,
 			"workoutId": 0
 		},
 		{
-			"exerciseId": 0,
-			"id": 6,
-			"reps": 4,
-			"units": "lb",
-			"weight": 220,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 0,
+			"exerciseId": 1,
 			"id": 7,
 			"reps": 3,
 			"units": "lb",
-			"weight": 220,
+			"weight": 125,
 			"workoutId": 0
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 1,
 			"id": 8,
-			"reps": 4,
+			"reps": 2,
 			"units": "lb",
-			"weight": 220,
+			"weight": 140,
 			"workoutId": 0
 		},
 		{
@@ -273,7 +277,7 @@
 			"id": 9,
 			"reps": 5,
 			"units": "lb",
-			"weight": 105,
+			"weight": 157,
 			"workoutId": 0
 		},
 		{
@@ -281,23 +285,23 @@
 			"id": 10,
 			"reps": 5,
 			"units": "lb",
-			"weight": 115,
+			"weight": 157,
 			"workoutId": 0
 		},
 		{
 			"exerciseId": 1,
 			"id": 11,
-			"reps": 3,
+			"reps": 5,
 			"units": "lb",
-			"weight": 125,
+			"weight": 157,
 			"workoutId": 0
 		},
 		{
 			"exerciseId": 1,
 			"id": 12,
-			"reps": 2,
+			"reps": 5,
 			"units": "lb",
-			"weight": 135,
+			"weight": 157,
 			"workoutId": 0
 		},
 		{
@@ -305,1159 +309,1159 @@
 			"id": 13,
 			"reps": 5,
 			"units": "lb",
-			"weight": 155,
+			"weight": 157,
 			"workoutId": 0
 		},
 		{
-			"exerciseId": 1,
+			"exerciseId": 2,
 			"id": 14,
-			"reps": 5,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 1,
-			"id": 15,
-			"reps": 3,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 1,
-			"id": 16,
-			"reps": 3,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 1,
-			"id": 17,
-			"reps": 4,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 2,
-			"id": 18,
-			"reps": 5,
-			"units": "lb",
-			"weight": 105,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 2,
-			"id": 19,
-			"reps": 3,
-			"units": "lb",
-			"weight": 125,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 2,
-			"id": 20,
-			"reps": 2,
-			"units": "lb",
-			"weight": 140,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 2,
-			"id": 21,
-			"reps": 5,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 2,
-			"id": 22,
-			"reps": 5,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 2,
-			"id": 23,
-			"reps": 5,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 2,
-			"id": 24,
-			"reps": 5,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 2,
-			"id": 25,
-			"reps": 5,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 3,
-			"id": 26,
-			"reps": 10,
+			"reps": 7,
 			"units": "lb",
 			"weight": 0,
 			"workoutId": 0
 		},
 		{
-			"exerciseId": 3,
-			"id": 27,
+			"exerciseId": 2,
+			"id": 15,
+			"reps": 7,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 2,
+			"id": 16,
 			"reps": 6,
 			"units": "lb",
 			"weight": 0,
 			"workoutId": 0
 		},
 		{
-			"exerciseId": 4,
-			"id": 28,
-			"reps": 12,
+			"exerciseId": 2,
+			"id": 17,
+			"reps": 6,
 			"units": "lb",
-			"weight": 5,
+			"weight": 0,
 			"workoutId": 0
 		},
 		{
-			"exerciseId": 4,
-			"id": 29,
-			"reps": 12,
-			"units": "lb",
-			"weight": 5,
-			"workoutId": 0
-		},
-		{
-			"exerciseId": 4,
-			"id": 30,
+			"exerciseId": 3,
+			"id": 18,
 			"reps": 10,
 			"units": "lb",
-			"weight": 5,
+			"weight": 90,
 			"workoutId": 0
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 3,
+			"id": 19,
+			"reps": 8,
+			"units": "lb",
+			"weight": 90,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 3,
+			"id": 20,
+			"reps": 7,
+			"units": "lb",
+			"weight": 95,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 4,
+			"id": 21,
+			"reps": 8,
+			"units": "lb",
+			"weight": 220,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 4,
+			"id": 22,
+			"reps": 8,
+			"units": "lb",
+			"weight": 220,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 4,
+			"id": 23,
+			"reps": 8,
+			"units": "lb",
+			"weight": 220,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 5,
+			"id": 24,
+			"reps": 4,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 5,
+			"id": 25,
+			"reps": 4,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 5,
+			"id": 26,
+			"reps": 3,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 5,
+			"id": 27,
+			"reps": 2,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 5,
+			"id": 28,
+			"reps": 4,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 5,
+			"id": 29,
+			"reps": 4,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 5,
+			"id": 30,
+			"reps": 2,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 5,
 			"id": 31,
+			"reps": 2,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 5,
+			"id": 32,
+			"reps": 2,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 5,
+			"id": 33,
+			"reps": 2,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 6,
+			"id": 34,
+			"reps": 12,
+			"units": "lb",
+			"weight": 42,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 6,
+			"id": 35,
+			"reps": 10,
+			"units": "lb",
+			"weight": 42,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 6,
+			"id": 36,
+			"reps": 10,
+			"units": "lb",
+			"weight": 42,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 7,
+			"id": 37,
+			"reps": 12,
+			"units": "lb",
+			"weight": 30,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 7,
+			"id": 38,
+			"reps": 10,
+			"units": "lb",
+			"weight": 30,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 7,
+			"id": 39,
+			"reps": 8,
+			"units": "lb",
+			"weight": 30,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 8,
+			"id": 40,
+			"reps": 10,
+			"units": "lb",
+			"weight": 20,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 8,
+			"id": 41,
+			"reps": 10,
+			"units": "lb",
+			"weight": 30,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 8,
+			"id": 42,
+			"reps": 10,
+			"units": "lb",
+			"weight": 30,
+			"workoutId": 0
+		},
+		{
+			"exerciseId": 9,
+			"id": 43,
 			"reps": 5,
 			"units": "lb",
 			"weight": 135,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 0,
-			"id": 32,
+			"exerciseId": 9,
+			"id": 44,
 			"reps": 5,
 			"units": "lb",
 			"weight": 155,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 0,
-			"id": 33,
+			"exerciseId": 9,
+			"id": 45,
 			"reps": 3,
 			"units": "lb",
 			"weight": 175,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 0,
-			"id": 34,
+			"exerciseId": 9,
+			"id": 46,
 			"reps": 2,
 			"units": "lb",
 			"weight": 195,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 0,
-			"id": 35,
+			"exerciseId": 9,
+			"id": 47,
 			"reps": 5,
 			"units": "lb",
 			"weight": 220,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 0,
-			"id": 36,
-			"reps": 3,
+			"exerciseId": 9,
+			"id": 48,
+			"reps": 5,
 			"units": "lb",
 			"weight": 220,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 0,
-			"id": 37,
-			"reps": 3,
-			"units": "lb",
-			"weight": 220,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 0,
-			"id": 38,
-			"reps": 2,
-			"units": "lb",
-			"weight": 220,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 0,
-			"id": 39,
+			"exerciseId": 9,
+			"id": 49,
 			"reps": 4,
 			"units": "lb",
 			"weight": 220,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 5,
-			"id": 40,
-			"reps": 5,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 5,
-			"id": 41,
-			"reps": 3,
-			"units": "lb",
-			"weight": 230,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 5,
-			"id": 42,
-			"reps": 2,
-			"units": "lb",
-			"weight": 280,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 5,
-			"id": 43,
-			"reps": 2,
-			"units": "lb",
-			"weight": 315,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 5,
-			"id": 44,
-			"reps": 5,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 6,
-			"id": 45,
-			"reps": 5,
-			"units": "lb",
-			"weight": 45,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 6,
-			"id": 46,
-			"reps": 5,
-			"units": "lb",
-			"weight": 55,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 6,
-			"id": 47,
-			"reps": 3,
-			"units": "lb",
-			"weight": 65,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 6,
-			"id": 48,
-			"reps": 2,
-			"units": "lb",
-			"weight": 75,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 6,
-			"id": 49,
-			"reps": 5,
-			"units": "lb",
-			"weight": 90,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 6,
+			"exerciseId": 9,
 			"id": 50,
-			"reps": 5,
+			"reps": 3,
 			"units": "lb",
-			"weight": 90,
+			"weight": 220,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 9,
 			"id": 51,
-			"reps": 5,
+			"reps": 4,
 			"units": "lb",
-			"weight": 90,
+			"weight": 220,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 10,
 			"id": 52,
 			"reps": 5,
 			"units": "lb",
-			"weight": 90,
+			"weight": 105,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 10,
 			"id": 53,
 			"reps": 5,
 			"units": "lb",
-			"weight": 90,
+			"weight": 115,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 2,
+			"exerciseId": 10,
 			"id": 54,
-			"reps": 5,
-			"units": "lb",
-			"weight": 100,
-			"workoutId": 1
-		},
-		{
-			"exerciseId": 2,
-			"id": 55,
 			"reps": 3,
 			"units": "lb",
-			"weight": 120,
+			"weight": 125,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 2,
-			"id": 56,
+			"exerciseId": 10,
+			"id": 55,
 			"reps": 2,
 			"units": "lb",
 			"weight": 135,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 2,
+			"exerciseId": 10,
+			"id": 56,
+			"reps": 5,
+			"units": "lb",
+			"weight": 155,
+			"workoutId": 1
+		},
+		{
+			"exerciseId": 10,
 			"id": 57,
 			"reps": 5,
 			"units": "lb",
-			"weight": 152,
+			"weight": 155,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 2,
+			"exerciseId": 10,
 			"id": 58,
-			"reps": 5,
+			"reps": 3,
 			"units": "lb",
-			"weight": 152,
+			"weight": 155,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 2,
+			"exerciseId": 10,
 			"id": 59,
-			"reps": 5,
+			"reps": 3,
 			"units": "lb",
-			"weight": 152,
+			"weight": 155,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 2,
+			"exerciseId": 10,
 			"id": 60,
-			"reps": 5,
+			"reps": 4,
 			"units": "lb",
-			"weight": 152,
+			"weight": 155,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 2,
+			"exerciseId": 1,
 			"id": 61,
 			"reps": 5,
 			"units": "lb",
-			"weight": 152,
+			"weight": 105,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 7,
+			"exerciseId": 1,
 			"id": 62,
-			"reps": 8,
+			"reps": 3,
 			"units": "lb",
-			"weight": 115,
+			"weight": 125,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 7,
+			"exerciseId": 1,
 			"id": 63,
-			"reps": 6,
+			"reps": 2,
 			"units": "lb",
-			"weight": 115,
+			"weight": 140,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 7,
+			"exerciseId": 1,
 			"id": 64,
-			"reps": 6,
+			"reps": 5,
 			"units": "lb",
-			"weight": 115,
+			"weight": 155,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 7,
+			"exerciseId": 1,
 			"id": 65,
 			"reps": 5,
 			"units": "lb",
-			"weight": 115,
+			"weight": 155,
 			"workoutId": 1
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 1,
 			"id": 66,
 			"reps": 5,
 			"units": "lb",
-			"weight": 135,
-			"workoutId": 2
+			"weight": 155,
+			"workoutId": 1
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 1,
 			"id": 67,
 			"reps": 5,
 			"units": "lb",
 			"weight": 155,
+			"workoutId": 1
+		},
+		{
+			"exerciseId": 1,
+			"id": 68,
+			"reps": 5,
+			"units": "lb",
+			"weight": 155,
+			"workoutId": 1
+		},
+		{
+			"exerciseId": 11,
+			"id": 69,
+			"reps": 10,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 1
+		},
+		{
+			"exerciseId": 11,
+			"id": 70,
+			"reps": 6,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 1
+		},
+		{
+			"exerciseId": 12,
+			"id": 71,
+			"reps": 12,
+			"units": "lb",
+			"weight": 5,
+			"workoutId": 1
+		},
+		{
+			"exerciseId": 12,
+			"id": 72,
+			"reps": 12,
+			"units": "lb",
+			"weight": 5,
+			"workoutId": 1
+		},
+		{
+			"exerciseId": 12,
+			"id": 73,
+			"reps": 10,
+			"units": "lb",
+			"weight": 5,
+			"workoutId": 1
+		},
+		{
+			"exerciseId": 9,
+			"id": 74,
+			"reps": 5,
+			"units": "lb",
+			"weight": 135,
 			"workoutId": 2
 		},
 		{
-			"exerciseId": 0,
-			"id": 68,
+			"exerciseId": 9,
+			"id": 75,
+			"reps": 5,
+			"units": "lb",
+			"weight": 155,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 9,
+			"id": 76,
 			"reps": 3,
 			"units": "lb",
 			"weight": 175,
 			"workoutId": 2
 		},
 		{
-			"exerciseId": 0,
-			"id": 69,
+			"exerciseId": 9,
+			"id": 77,
 			"reps": 2,
 			"units": "lb",
 			"weight": 195,
 			"workoutId": 2
 		},
 		{
-			"exerciseId": 0,
-			"id": 70,
-			"reps": 3,
-			"units": "lb",
-			"weight": 220,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 0,
-			"id": 71,
-			"reps": 4,
-			"units": "lb",
-			"weight": 220,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 0,
-			"id": 72,
-			"reps": 3,
-			"units": "lb",
-			"weight": 220,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 0,
-			"id": 73,
-			"reps": 2,
-			"units": "lb",
-			"weight": 220,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 0,
-			"id": 74,
-			"reps": 4,
-			"units": "lb",
-			"weight": 220,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 1,
-			"id": 75,
-			"reps": 5,
-			"units": "lb",
-			"weight": 105,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 1,
-			"id": 76,
-			"reps": 5,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 1,
-			"id": 77,
-			"reps": 3,
-			"units": "lb",
-			"weight": 125,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 1,
+			"exerciseId": 9,
 			"id": 78,
+			"reps": 5,
+			"units": "lb",
+			"weight": 220,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 9,
+			"id": 79,
+			"reps": 3,
+			"units": "lb",
+			"weight": 220,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 9,
+			"id": 80,
+			"reps": 3,
+			"units": "lb",
+			"weight": 220,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 9,
+			"id": 81,
 			"reps": 2,
 			"units": "lb",
-			"weight": 135,
+			"weight": 220,
 			"workoutId": 2
 		},
 		{
-			"exerciseId": 1,
-			"id": 79,
-			"reps": 5,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 1,
-			"id": 80,
-			"reps": 5,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 1,
-			"id": 81,
-			"reps": 5,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 1,
+			"exerciseId": 9,
 			"id": 82,
 			"reps": 4,
 			"units": "lb",
-			"weight": 155,
+			"weight": 220,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 0,
+			"id": 83,
+			"reps": 5,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 0,
+			"id": 84,
+			"reps": 3,
+			"units": "lb",
+			"weight": 230,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 0,
+			"id": 85,
+			"reps": 2,
+			"units": "lb",
+			"weight": 280,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 0,
+			"id": 86,
+			"reps": 2,
+			"units": "lb",
+			"weight": 315,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 0,
+			"id": 87,
+			"reps": 5,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 13,
+			"id": 88,
+			"reps": 5,
+			"units": "lb",
+			"weight": 45,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 13,
+			"id": 89,
+			"reps": 5,
+			"units": "lb",
+			"weight": 55,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 13,
+			"id": 90,
+			"reps": 3,
+			"units": "lb",
+			"weight": 65,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 13,
+			"id": 91,
+			"reps": 2,
+			"units": "lb",
+			"weight": 75,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 13,
+			"id": 92,
+			"reps": 5,
+			"units": "lb",
+			"weight": 90,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 13,
+			"id": 93,
+			"reps": 5,
+			"units": "lb",
+			"weight": 90,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 13,
+			"id": 94,
+			"reps": 5,
+			"units": "lb",
+			"weight": 90,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 13,
+			"id": 95,
+			"reps": 5,
+			"units": "lb",
+			"weight": 90,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 13,
+			"id": 96,
+			"reps": 5,
+			"units": "lb",
+			"weight": 90,
 			"workoutId": 2
 		},
 		{
 			"exerciseId": 1,
-			"id": 83,
-			"reps": 3,
-			"units": "lb",
-			"weight": 155,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 2,
-			"id": 84,
+			"id": 97,
 			"reps": 5,
 			"units": "lb",
 			"weight": 100,
 			"workoutId": 2
 		},
 		{
-			"exerciseId": 2,
-			"id": 85,
+			"exerciseId": 1,
+			"id": 98,
 			"reps": 3,
 			"units": "lb",
 			"weight": 120,
 			"workoutId": 2
 		},
 		{
-			"exerciseId": 2,
-			"id": 86,
-			"reps": 2,
-			"units": "lb",
-			"weight": 135,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 2,
-			"id": 87,
-			"reps": 5,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 2,
-			"id": 88,
-			"reps": 5,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 2,
-			"id": 89,
-			"reps": 5,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 2,
-			"id": 90,
-			"reps": 5,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 2,
-			"id": 91,
-			"reps": 5,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 8,
-			"id": 92,
-			"reps": 8,
-			"units": "lb",
-			"weight": 240,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 8,
-			"id": 93,
-			"reps": 8,
-			"units": "lb",
-			"weight": 240,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 8,
-			"id": 94,
-			"reps": 6,
-			"units": "lb",
-			"weight": 240,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 9,
-			"id": 95,
-			"reps": 5,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 9,
-			"id": 96,
-			"reps": 5,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 9,
-			"id": 97,
-			"reps": 4,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 9,
-			"id": 98,
-			"reps": 3,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 9,
+			"exerciseId": 1,
 			"id": 99,
-			"reps": 1,
+			"reps": 2,
 			"units": "lb",
-			"weight": 60,
+			"weight": 135,
 			"workoutId": 2
 		},
 		{
-			"exerciseId": 9,
+			"exerciseId": 1,
 			"id": 100,
-			"reps": 1,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 9,
-			"id": 101,
-			"reps": 4,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 9,
-			"id": 102,
-			"reps": 2,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 10,
-			"id": 103,
-			"reps": 4,
-			"units": "lb",
-			"weight": 80,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 10,
-			"id": 104,
-			"reps": 4,
-			"units": "lb",
-			"weight": 80,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 10,
-			"id": 105,
-			"reps": 4,
-			"units": "lb",
-			"weight": 80,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 10,
-			"id": 106,
-			"reps": 4,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 10,
-			"id": 107,
-			"reps": 3,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 10,
-			"id": 108,
-			"reps": 1,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 10,
-			"id": 109,
-			"reps": 2,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 10,
-			"id": 110,
-			"reps": 2,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 2
-		},
-		{
-			"exerciseId": 5,
-			"id": 111,
-			"reps": 5,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 5,
-			"id": 112,
-			"reps": 3,
-			"units": "lb",
-			"weight": 225,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 5,
-			"id": 113,
-			"reps": 2,
-			"units": "lb",
-			"weight": 250,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 5,
-			"id": 114,
-			"reps": 5,
-			"units": "lb",
-			"weight": 285,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 2,
-			"id": 115,
-			"reps": 5,
-			"units": "lb",
-			"weight": 95,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 2,
-			"id": 116,
-			"reps": 3,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 2,
-			"id": 117,
-			"reps": 2,
-			"units": "lb",
-			"weight": 135,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 2,
-			"id": 118,
-			"reps": 5,
-			"units": "lb",
-			"weight": 145,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 2,
-			"id": 119,
-			"reps": 5,
-			"units": "lb",
-			"weight": 145,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 2,
-			"id": 120,
-			"reps": 5,
-			"units": "lb",
-			"weight": 145,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 2,
-			"id": 121,
-			"reps": 5,
-			"units": "lb",
-			"weight": 145,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 2,
-			"id": 122,
-			"reps": 5,
-			"units": "lb",
-			"weight": 145,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 11,
-			"id": 123,
-			"reps": 6,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 11,
-			"id": 124,
-			"reps": 6,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 11,
-			"id": 125,
-			"reps": 6,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 11,
-			"id": 126,
-			"reps": 6,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 11,
-			"id": 127,
-			"reps": 3,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 12,
-			"id": 128,
-			"reps": 10,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 12,
-			"id": 129,
-			"reps": 8,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 12,
-			"id": 130,
-			"reps": 10,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 8,
-			"id": 131,
-			"reps": 8,
-			"units": "lb",
-			"weight": 240,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 8,
-			"id": 132,
-			"reps": 7,
-			"units": "lb",
-			"weight": 240,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 8,
-			"id": 133,
-			"reps": 7,
-			"units": "lb",
-			"weight": 240,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 13,
-			"id": 134,
-			"reps": 1,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 9,
-			"id": 135,
-			"reps": 4,
-			"units": "lb",
-			"weight": 80,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 9,
-			"id": 136,
-			"reps": 4,
-			"units": "lb",
-			"weight": 80,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 9,
-			"id": 137,
-			"reps": 3,
-			"units": "lb",
-			"weight": 80,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 9,
-			"id": 138,
-			"reps": 2,
-			"units": "lb",
-			"weight": 80,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 9,
-			"id": 139,
-			"reps": 4,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 9,
-			"id": 140,
-			"reps": 4,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 9,
-			"id": 141,
-			"reps": 2,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 9,
-			"id": 142,
-			"reps": 2,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 9,
-			"id": 143,
-			"reps": 2,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 14,
-			"id": 144,
-			"reps": 8,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 14,
-			"id": 145,
-			"reps": 8,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 14,
-			"id": 146,
-			"reps": 6,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 14,
-			"id": 147,
-			"reps": 3,
-			"units": "lb",
-			"weight": 40,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 14,
-			"id": 148,
-			"reps": 3,
-			"units": "lb",
-			"weight": 40,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 14,
-			"id": 149,
-			"reps": 4,
-			"units": "lb",
-			"weight": 40,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 13,
-			"id": 150,
-			"reps": 8,
-			"units": "lb",
-			"weight": 30,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 13,
-			"id": 151,
-			"reps": 10,
-			"units": "lb",
-			"weight": 25,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 13,
-			"id": 152,
-			"reps": 10,
-			"units": "lb",
-			"weight": 25,
-			"workoutId": 3
-		},
-		{
-			"exerciseId": 1,
-			"id": 153,
-			"reps": 5,
-			"units": "lb",
-			"weight": 95,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 1,
-			"id": 154,
-			"reps": 5,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 1,
-			"id": 155,
-			"reps": 3,
-			"units": "lb",
-			"weight": 125,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 1,
-			"id": 156,
-			"reps": 2,
-			"units": "lb",
-			"weight": 135,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 1,
-			"id": 157,
 			"reps": 5,
 			"units": "lb",
 			"weight": 152,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 1,
+			"id": 101,
+			"reps": 5,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 1,
+			"id": 102,
+			"reps": 5,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 1,
+			"id": 103,
+			"reps": 5,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 1,
+			"id": 104,
+			"reps": 5,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 14,
+			"id": 105,
+			"reps": 8,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 14,
+			"id": 106,
+			"reps": 6,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 14,
+			"id": 107,
+			"reps": 6,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 14,
+			"id": 108,
+			"reps": 5,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 2
+		},
+		{
+			"exerciseId": 9,
+			"id": 109,
+			"reps": 5,
+			"units": "lb",
+			"weight": 135,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 9,
+			"id": 110,
+			"reps": 5,
+			"units": "lb",
+			"weight": 155,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 9,
+			"id": 111,
+			"reps": 3,
+			"units": "lb",
+			"weight": 175,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 9,
+			"id": 112,
+			"reps": 2,
+			"units": "lb",
+			"weight": 195,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 9,
+			"id": 113,
+			"reps": 3,
+			"units": "lb",
+			"weight": 220,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 9,
+			"id": 114,
+			"reps": 4,
+			"units": "lb",
+			"weight": 220,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 9,
+			"id": 115,
+			"reps": 3,
+			"units": "lb",
+			"weight": 220,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 9,
+			"id": 116,
+			"reps": 2,
+			"units": "lb",
+			"weight": 220,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 9,
+			"id": 117,
+			"reps": 4,
+			"units": "lb",
+			"weight": 220,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 10,
+			"id": 118,
+			"reps": 5,
+			"units": "lb",
+			"weight": 105,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 10,
+			"id": 119,
+			"reps": 5,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 10,
+			"id": 120,
+			"reps": 3,
+			"units": "lb",
+			"weight": 125,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 10,
+			"id": 121,
+			"reps": 2,
+			"units": "lb",
+			"weight": 135,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 10,
+			"id": 122,
+			"reps": 5,
+			"units": "lb",
+			"weight": 155,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 10,
+			"id": 123,
+			"reps": 5,
+			"units": "lb",
+			"weight": 155,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 10,
+			"id": 124,
+			"reps": 5,
+			"units": "lb",
+			"weight": 155,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 10,
+			"id": 125,
+			"reps": 4,
+			"units": "lb",
+			"weight": 155,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 10,
+			"id": 126,
+			"reps": 3,
+			"units": "lb",
+			"weight": 155,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 1,
+			"id": 127,
+			"reps": 5,
+			"units": "lb",
+			"weight": 100,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 1,
+			"id": 128,
+			"reps": 3,
+			"units": "lb",
+			"weight": 120,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 1,
+			"id": 129,
+			"reps": 2,
+			"units": "lb",
+			"weight": 135,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 1,
+			"id": 130,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 1,
+			"id": 131,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 1,
+			"id": 132,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 1,
+			"id": 133,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 1,
+			"id": 134,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 4,
+			"id": 135,
+			"reps": 8,
+			"units": "lb",
+			"weight": 240,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 4,
+			"id": 136,
+			"reps": 8,
+			"units": "lb",
+			"weight": 240,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 4,
+			"id": 137,
+			"reps": 6,
+			"units": "lb",
+			"weight": 240,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 5,
+			"id": 138,
+			"reps": 5,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 5,
+			"id": 139,
+			"reps": 5,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 5,
+			"id": 140,
+			"reps": 4,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 5,
+			"id": 141,
+			"reps": 3,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 5,
+			"id": 142,
+			"reps": 1,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 5,
+			"id": 143,
+			"reps": 1,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 5,
+			"id": 144,
+			"reps": 4,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 5,
+			"id": 145,
+			"reps": 2,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 15,
+			"id": 146,
+			"reps": 4,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 15,
+			"id": 147,
+			"reps": 4,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 15,
+			"id": 148,
+			"reps": 4,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 15,
+			"id": 149,
+			"reps": 4,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 15,
+			"id": 150,
+			"reps": 3,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 15,
+			"id": 151,
+			"reps": 1,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 15,
+			"id": 152,
+			"reps": 2,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 15,
+			"id": 153,
+			"reps": 2,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 3
+		},
+		{
+			"exerciseId": 0,
+			"id": 154,
+			"reps": 5,
+			"units": "lb",
+			"weight": 205,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 0,
+			"id": 155,
+			"reps": 3,
+			"units": "lb",
+			"weight": 225,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 0,
+			"id": 156,
+			"reps": 2,
+			"units": "lb",
+			"weight": 250,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 0,
+			"id": 157,
+			"reps": 5,
+			"units": "lb",
+			"weight": 285,
 			"workoutId": 4
 		},
 		{
@@ -1465,23 +1469,23 @@
 			"id": 158,
 			"reps": 5,
 			"units": "lb",
-			"weight": 152,
+			"weight": 95,
 			"workoutId": 4
 		},
 		{
 			"exerciseId": 1,
 			"id": 159,
-			"reps": 5,
+			"reps": 3,
 			"units": "lb",
-			"weight": 152,
+			"weight": 115,
 			"workoutId": 4
 		},
 		{
 			"exerciseId": 1,
 			"id": 160,
-			"reps": 5,
+			"reps": 2,
 			"units": "lb",
-			"weight": 152,
+			"weight": 135,
 			"workoutId": 4
 		},
 		{
@@ -1489,2015 +1493,2015 @@
 			"id": 161,
 			"reps": 5,
 			"units": "lb",
-			"weight": 152,
+			"weight": 145,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 1,
 			"id": 162,
 			"reps": 5,
 			"units": "lb",
-			"weight": 45,
+			"weight": 145,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 1,
 			"id": 163,
 			"reps": 5,
 			"units": "lb",
-			"weight": 55,
+			"weight": 145,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 1,
 			"id": 164,
-			"reps": 3,
+			"reps": 5,
 			"units": "lb",
-			"weight": 60,
+			"weight": 145,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 1,
 			"id": 165,
 			"reps": 5,
 			"units": "lb",
-			"weight": 60,
+			"weight": 145,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 2,
 			"id": 166,
+			"reps": 6,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 2,
+			"id": 167,
+			"reps": 6,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 2,
+			"id": 168,
+			"reps": 6,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 2,
+			"id": 169,
+			"reps": 6,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 2,
+			"id": 170,
+			"reps": 3,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 3,
+			"id": 171,
+			"reps": 10,
+			"units": "lb",
+			"weight": 85,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 3,
+			"id": 172,
+			"reps": 8,
+			"units": "lb",
+			"weight": 85,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 3,
+			"id": 173,
+			"reps": 10,
+			"units": "lb",
+			"weight": 85,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 4,
+			"id": 174,
+			"reps": 8,
+			"units": "lb",
+			"weight": 240,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 4,
+			"id": 175,
+			"reps": 7,
+			"units": "lb",
+			"weight": 240,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 4,
+			"id": 176,
+			"reps": 7,
+			"units": "lb",
+			"weight": 240,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 7,
+			"id": 177,
+			"reps": 1,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 5,
+			"id": 178,
+			"reps": 4,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 5,
+			"id": 179,
+			"reps": 4,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 5,
+			"id": 180,
+			"reps": 3,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 5,
+			"id": 181,
+			"reps": 2,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 5,
+			"id": 182,
+			"reps": 4,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 5,
+			"id": 183,
+			"reps": 4,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 4
+		},
+		{
+			"exerciseId": 5,
+			"id": 184,
 			"reps": 2,
 			"units": "lb",
 			"weight": 70,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 6,
-			"id": 167,
-			"reps": 5,
+			"exerciseId": 5,
+			"id": 185,
+			"reps": 2,
 			"units": "lb",
-			"weight": 88,
+			"weight": 70,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 6,
-			"id": 168,
-			"reps": 5,
+			"exerciseId": 5,
+			"id": 186,
+			"reps": 2,
 			"units": "lb",
-			"weight": 88,
+			"weight": 60,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 6,
-			"id": 169,
-			"reps": 5,
+			"exerciseId": 16,
+			"id": 187,
+			"reps": 8,
 			"units": "lb",
-			"weight": 88,
+			"weight": 50,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 6,
-			"id": 170,
-			"reps": 5,
+			"exerciseId": 16,
+			"id": 188,
+			"reps": 8,
 			"units": "lb",
-			"weight": 88,
+			"weight": 50,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 15,
-			"id": 171,
+			"exerciseId": 16,
+			"id": 189,
 			"reps": 6,
 			"units": "lb",
 			"weight": 50,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 15,
-			"id": 172,
-			"reps": 10,
-			"units": "lb",
-			"weight": 45,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 15,
-			"id": 173,
-			"reps": 6,
-			"units": "lb",
-			"weight": 45,
-			"workoutId": 4
-		},
-		{
 			"exerciseId": 16,
-			"id": 174,
-			"reps": 6,
+			"id": 190,
+			"reps": 3,
 			"units": "lb",
 			"weight": 40,
 			"workoutId": 4
 		},
 		{
 			"exerciseId": 16,
-			"id": 175,
-			"reps": 6,
+			"id": 191,
+			"reps": 3,
 			"units": "lb",
 			"weight": 40,
 			"workoutId": 4
 		},
 		{
 			"exerciseId": 16,
-			"id": 176,
-			"reps": 6,
+			"id": 192,
+			"reps": 4,
 			"units": "lb",
 			"weight": 40,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 17,
-			"id": 177,
-			"reps": 12,
+			"exerciseId": 7,
+			"id": 193,
+			"reps": 8,
 			"units": "lb",
 			"weight": 30,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 17,
-			"id": 178,
-			"reps": 10,
-			"units": "lb",
-			"weight": 30,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 17,
-			"id": 179,
-			"reps": 9,
-			"units": "lb",
-			"weight": 30,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 18,
-			"id": 180,
+			"exerciseId": 7,
+			"id": 194,
 			"reps": 10,
 			"units": "lb",
 			"weight": 25,
 			"workoutId": 4
 		},
 		{
-			"exerciseId": 18,
-			"id": 181,
-			"reps": 8,
-			"units": "lb",
-			"weight": 30,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 18,
-			"id": 182,
-			"reps": 6,
-			"units": "lb",
-			"weight": 30,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 19,
-			"id": 183,
-			"reps": 4,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 19,
-			"id": 184,
-			"reps": 3,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 19,
-			"id": 185,
-			"reps": 2,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 20,
-			"id": 186,
-			"reps": 12,
-			"units": "lb",
-			"weight": 20,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 20,
-			"id": 187,
-			"reps": 10,
-			"units": "lb",
-			"weight": 20,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 20,
-			"id": 188,
-			"reps": 8,
-			"units": "lb",
-			"weight": 20,
-			"workoutId": 4
-		},
-		{
 			"exerciseId": 7,
-			"id": 189,
-			"reps": 5,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 7,
-			"id": 190,
-			"reps": 7,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 21,
-			"id": 191,
-			"reps": 10,
-			"units": "lb",
-			"weight": 5,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 21,
-			"id": 192,
-			"reps": 8,
-			"units": "lb",
-			"weight": 5,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 22,
-			"id": 193,
-			"reps": 12,
-			"units": "lb",
-			"weight": 5,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 22,
-			"id": 194,
-			"reps": 12,
-			"units": "lb",
-			"weight": 5,
-			"workoutId": 4
-		},
-		{
-			"exerciseId": 0,
 			"id": 195,
-			"reps": 5,
+			"reps": 10,
 			"units": "lb",
-			"weight": 135,
-			"workoutId": 5
+			"weight": 25,
+			"workoutId": 4
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 10,
 			"id": 196,
 			"reps": 5,
 			"units": "lb",
-			"weight": 155,
+			"weight": 95,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 10,
 			"id": 197,
-			"reps": 3,
-			"units": "lb",
-			"weight": 175,
-			"workoutId": 5
-		},
-		{
-			"exerciseId": 0,
-			"id": 198,
-			"reps": 2,
-			"units": "lb",
-			"weight": 195,
-			"workoutId": 5
-		},
-		{
-			"exerciseId": 0,
-			"id": 199,
 			"reps": 5,
 			"units": "lb",
-			"weight": 215,
+			"weight": 115,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 10,
+			"id": 198,
+			"reps": 3,
+			"units": "lb",
+			"weight": 125,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 10,
+			"id": 199,
+			"reps": 2,
+			"units": "lb",
+			"weight": 135,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 10,
 			"id": 200,
 			"reps": 5,
 			"units": "lb",
-			"weight": 215,
+			"weight": 152,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 10,
 			"id": 201,
 			"reps": 5,
 			"units": "lb",
-			"weight": 215,
+			"weight": 152,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 10,
 			"id": 202,
 			"reps": 5,
 			"units": "lb",
-			"weight": 215,
+			"weight": 152,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 10,
 			"id": 203,
 			"reps": 5,
 			"units": "lb",
-			"weight": 215,
+			"weight": 152,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 10,
 			"id": 204,
 			"reps": 5,
 			"units": "lb",
-			"weight": 215,
+			"weight": 152,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 23,
+			"exerciseId": 13,
 			"id": 205,
-			"reps": 12,
+			"reps": 5,
 			"units": "lb",
-			"weight": 175,
+			"weight": 45,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 23,
+			"exerciseId": 13,
 			"id": 206,
-			"reps": 10,
+			"reps": 5,
 			"units": "lb",
-			"weight": 175,
+			"weight": 55,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 23,
+			"exerciseId": 13,
 			"id": 207,
-			"reps": 10,
+			"reps": 3,
 			"units": "lb",
-			"weight": 175,
+			"weight": 60,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 24,
+			"exerciseId": 13,
 			"id": 208,
-			"reps": 12,
+			"reps": 5,
 			"units": "lb",
-			"weight": 90,
+			"weight": 60,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 24,
+			"exerciseId": 13,
 			"id": 209,
-			"reps": 12,
+			"reps": 2,
 			"units": "lb",
-			"weight": 90,
+			"weight": 70,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 24,
+			"exerciseId": 13,
 			"id": 210,
-			"reps": 12,
+			"reps": 5,
 			"units": "lb",
-			"weight": 90,
+			"weight": 88,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 25,
+			"exerciseId": 13,
 			"id": 211,
+			"reps": 5,
+			"units": "lb",
+			"weight": 88,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 13,
+			"id": 212,
+			"reps": 5,
+			"units": "lb",
+			"weight": 88,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 13,
+			"id": 213,
+			"reps": 5,
+			"units": "lb",
+			"weight": 88,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 17,
+			"id": 214,
+			"reps": 6,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 17,
+			"id": 215,
 			"reps": 10,
 			"units": "lb",
 			"weight": 45,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 25,
-			"id": 212,
-			"reps": 8,
-			"units": "lb",
-			"weight": 65,
-			"workoutId": 5
-		},
-		{
-			"exerciseId": 25,
-			"id": 213,
+			"exerciseId": 17,
+			"id": 216,
 			"reps": 6,
 			"units": "lb",
-			"weight": 75,
+			"weight": 45,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 0,
-			"id": 214,
-			"reps": 5,
-			"units": "lb",
-			"weight": 135,
-			"workoutId": 5
-		},
-		{
-			"exerciseId": 0,
-			"id": 215,
-			"reps": 5,
-			"units": "lb",
-			"weight": 135,
-			"workoutId": 5
-		},
-		{
-			"exerciseId": 26,
-			"id": 216,
-			"reps": 10,
-			"units": "lb",
-			"weight": 75,
-			"workoutId": 5
-		},
-		{
-			"exerciseId": 26,
+			"exerciseId": 18,
 			"id": 217,
-			"reps": 8,
+			"reps": 6,
 			"units": "lb",
-			"weight": 75,
+			"weight": 40,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 27,
+			"exerciseId": 18,
 			"id": 218,
-			"reps": 8,
+			"reps": 6,
 			"units": "lb",
-			"weight": 155,
+			"weight": 40,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 27,
+			"exerciseId": 18,
 			"id": 219,
-			"reps": 10,
+			"reps": 6,
 			"units": "lb",
-			"weight": 140,
+			"weight": 40,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 27,
+			"exerciseId": 19,
 			"id": 220,
-			"reps": 10,
-			"units": "lb",
-			"weight": 140,
-			"workoutId": 5
-		},
-		{
-			"exerciseId": 28,
-			"id": 221,
 			"reps": 12,
 			"units": "lb",
-			"weight": 330,
+			"weight": 30,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 28,
-			"id": 222,
+			"exerciseId": 19,
+			"id": 221,
 			"reps": 10,
 			"units": "lb",
-			"weight": 335,
+			"weight": 30,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 28,
+			"exerciseId": 19,
+			"id": 222,
+			"reps": 9,
+			"units": "lb",
+			"weight": 30,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 20,
 			"id": 223,
+			"reps": 10,
+			"units": "lb",
+			"weight": 25,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 20,
+			"id": 224,
 			"reps": 8,
 			"units": "lb",
-			"weight": 335,
+			"weight": 30,
 			"workoutId": 5
 		},
 		{
-			"exerciseId": 0,
-			"id": 224,
+			"exerciseId": 20,
+			"id": 225,
+			"reps": 6,
+			"units": "lb",
+			"weight": 30,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 21,
+			"id": 226,
+			"reps": 4,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 21,
+			"id": 227,
+			"reps": 3,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 21,
+			"id": 228,
+			"reps": 2,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 22,
+			"id": 229,
+			"reps": 12,
+			"units": "lb",
+			"weight": 20,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 22,
+			"id": 230,
+			"reps": 10,
+			"units": "lb",
+			"weight": 20,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 22,
+			"id": 231,
+			"reps": 8,
+			"units": "lb",
+			"weight": 20,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 14,
+			"id": 232,
+			"reps": 5,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 14,
+			"id": 233,
+			"reps": 7,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 23,
+			"id": 234,
+			"reps": 10,
+			"units": "lb",
+			"weight": 5,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 23,
+			"id": 235,
+			"reps": 8,
+			"units": "lb",
+			"weight": 5,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 24,
+			"id": 236,
+			"reps": 12,
+			"units": "lb",
+			"weight": 5,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 24,
+			"id": 237,
+			"reps": 12,
+			"units": "lb",
+			"weight": 5,
+			"workoutId": 5
+		},
+		{
+			"exerciseId": 9,
+			"id": 238,
 			"reps": 5,
 			"units": "lb",
 			"weight": 135,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 0,
-			"id": 225,
+			"exerciseId": 9,
+			"id": 239,
 			"reps": 5,
 			"units": "lb",
 			"weight": 155,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 0,
-			"id": 226,
+			"exerciseId": 9,
+			"id": 240,
 			"reps": 3,
 			"units": "lb",
 			"weight": 175,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 0,
-			"id": 227,
+			"exerciseId": 9,
+			"id": 241,
 			"reps": 2,
 			"units": "lb",
 			"weight": 195,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 0,
-			"id": 228,
+			"exerciseId": 9,
+			"id": 242,
 			"reps": 5,
 			"units": "lb",
 			"weight": 215,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 0,
-			"id": 229,
-			"reps": 4,
-			"units": "lb",
-			"weight": 215,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 0,
-			"id": 230,
-			"reps": 3,
-			"units": "lb",
-			"weight": 215,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 0,
-			"id": 231,
-			"reps": 3,
-			"units": "lb",
-			"weight": 215,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 0,
-			"id": 232,
-			"reps": 3,
-			"units": "lb",
-			"weight": 215,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 5,
-			"id": 233,
+			"exerciseId": 9,
+			"id": 243,
 			"reps": 5,
 			"units": "lb",
-			"weight": 205,
+			"weight": 215,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 5,
-			"id": 234,
-			"reps": 3,
-			"units": "lb",
-			"weight": 225,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 5,
-			"id": 235,
-			"reps": 2,
-			"units": "lb",
-			"weight": 250,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 5,
-			"id": 236,
+			"exerciseId": 9,
+			"id": 244,
 			"reps": 5,
 			"units": "lb",
-			"weight": 275,
+			"weight": 215,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 6,
-			"id": 237,
+			"exerciseId": 9,
+			"id": 245,
 			"reps": 5,
+			"units": "lb",
+			"weight": 215,
+			"workoutId": 6
+		},
+		{
+			"exerciseId": 9,
+			"id": 246,
+			"reps": 5,
+			"units": "lb",
+			"weight": 215,
+			"workoutId": 6
+		},
+		{
+			"exerciseId": 9,
+			"id": 247,
+			"reps": 5,
+			"units": "lb",
+			"weight": 215,
+			"workoutId": 6
+		},
+		{
+			"exerciseId": 25,
+			"id": 248,
+			"reps": 12,
+			"units": "lb",
+			"weight": 175,
+			"workoutId": 6
+		},
+		{
+			"exerciseId": 25,
+			"id": 249,
+			"reps": 10,
+			"units": "lb",
+			"weight": 175,
+			"workoutId": 6
+		},
+		{
+			"exerciseId": 25,
+			"id": 250,
+			"reps": 10,
+			"units": "lb",
+			"weight": 175,
+			"workoutId": 6
+		},
+		{
+			"exerciseId": 26,
+			"id": 251,
+			"reps": 12,
+			"units": "lb",
+			"weight": 90,
+			"workoutId": 6
+		},
+		{
+			"exerciseId": 26,
+			"id": 252,
+			"reps": 12,
+			"units": "lb",
+			"weight": 90,
+			"workoutId": 6
+		},
+		{
+			"exerciseId": 26,
+			"id": 253,
+			"reps": 12,
+			"units": "lb",
+			"weight": 90,
+			"workoutId": 6
+		},
+		{
+			"exerciseId": 27,
+			"id": 254,
+			"reps": 10,
 			"units": "lb",
 			"weight": 45,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 6,
-			"id": 238,
-			"reps": 5,
-			"units": "lb",
-			"weight": 55,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 6,
-			"id": 239,
-			"reps": 3,
+			"exerciseId": 27,
+			"id": 255,
+			"reps": 8,
 			"units": "lb",
 			"weight": 65,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 6,
-			"id": 240,
-			"reps": 2,
+			"exerciseId": 27,
+			"id": 256,
+			"reps": 6,
 			"units": "lb",
-			"weight": 70,
+			"weight": 75,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 6,
-			"id": 241,
+			"exerciseId": 9,
+			"id": 257,
 			"reps": 5,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 6,
-			"id": 242,
-			"reps": 5,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 6,
-			"id": 243,
-			"reps": 5,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 6,
-			"id": 244,
-			"reps": 5,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 6,
-			"id": 245,
-			"reps": 5,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 2,
-			"id": 246,
-			"reps": 3,
 			"units": "lb",
 			"weight": 135,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 2,
-			"id": 247,
-			"reps": 2,
-			"units": "lb",
-			"weight": 145,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 2,
-			"id": 248,
-			"reps": 2,
-			"units": "lb",
-			"weight": 145,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 2,
-			"id": 249,
-			"reps": 5,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 2,
-			"id": 250,
-			"reps": 4,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 2,
-			"id": 251,
-			"reps": 3,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 2,
-			"id": 252,
-			"reps": 3,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 2,
-			"id": 253,
-			"reps": 3,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 7,
-			"id": 254,
-			"reps": 8,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 7,
-			"id": 255,
-			"reps": 8,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 7,
-			"id": 256,
-			"reps": 5,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 29,
-			"id": 257,
-			"reps": 8,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 6
-		},
-		{
-			"exerciseId": 29,
+			"exerciseId": 9,
 			"id": 258,
-			"reps": 4,
+			"reps": 5,
 			"units": "lb",
-			"weight": 80,
+			"weight": 135,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 29,
+			"exerciseId": 28,
 			"id": 259,
-			"reps": 2,
+			"reps": 10,
 			"units": "lb",
-			"weight": 70,
+			"weight": 75,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 29,
+			"exerciseId": 28,
 			"id": 260,
-			"reps": 3,
+			"reps": 8,
 			"units": "lb",
-			"weight": 80,
+			"weight": 75,
 			"workoutId": 6
 		},
 		{
 			"exerciseId": 29,
 			"id": 261,
-			"reps": 2,
+			"reps": 8,
 			"units": "lb",
-			"weight": 70,
+			"weight": 155,
 			"workoutId": 6
 		},
 		{
 			"exerciseId": 29,
 			"id": 262,
-			"reps": 3,
+			"reps": 10,
 			"units": "lb",
-			"weight": 60,
+			"weight": 140,
 			"workoutId": 6
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 29,
 			"id": 263,
-			"reps": 5,
+			"reps": 10,
 			"units": "lb",
-			"weight": 130,
-			"workoutId": 7
+			"weight": 140,
+			"workoutId": 6
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 30,
 			"id": 264,
-			"reps": 5,
+			"reps": 12,
 			"units": "lb",
-			"weight": 150,
-			"workoutId": 7
+			"weight": 330,
+			"workoutId": 6
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 30,
 			"id": 265,
-			"reps": 3,
+			"reps": 10,
 			"units": "lb",
-			"weight": 170,
-			"workoutId": 7
+			"weight": 335,
+			"workoutId": 6
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 30,
 			"id": 266,
-			"reps": 2,
+			"reps": 8,
 			"units": "lb",
-			"weight": 190,
-			"workoutId": 7
+			"weight": 335,
+			"workoutId": 6
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 9,
 			"id": 267,
 			"reps": 5,
 			"units": "lb",
-			"weight": 210,
+			"weight": 135,
 			"workoutId": 7
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 9,
 			"id": 268,
 			"reps": 5,
 			"units": "lb",
-			"weight": 210,
+			"weight": 155,
 			"workoutId": 7
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 9,
 			"id": 269,
-			"reps": 5,
+			"reps": 3,
 			"units": "lb",
-			"weight": 210,
+			"weight": 175,
 			"workoutId": 7
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 9,
 			"id": 270,
-			"reps": 5,
+			"reps": 2,
 			"units": "lb",
-			"weight": 210,
+			"weight": 195,
 			"workoutId": 7
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 9,
 			"id": 271,
 			"reps": 5,
 			"units": "lb",
-			"weight": 210,
+			"weight": 215,
 			"workoutId": 7
 		},
 		{
-			"exerciseId": 1,
+			"exerciseId": 9,
 			"id": 272,
-			"reps": 5,
+			"reps": 4,
 			"units": "lb",
-			"weight": 105,
+			"weight": 215,
 			"workoutId": 7
 		},
 		{
-			"exerciseId": 1,
+			"exerciseId": 9,
 			"id": 273,
-			"reps": 5,
+			"reps": 3,
 			"units": "lb",
-			"weight": 115,
+			"weight": 215,
 			"workoutId": 7
 		},
 		{
-			"exerciseId": 1,
+			"exerciseId": 9,
 			"id": 274,
 			"reps": 3,
 			"units": "lb",
-			"weight": 125,
+			"weight": 215,
 			"workoutId": 7
 		},
 		{
-			"exerciseId": 1,
+			"exerciseId": 9,
 			"id": 275,
-			"reps": 2,
+			"reps": 3,
 			"units": "lb",
-			"weight": 135,
+			"weight": 215,
 			"workoutId": 7
 		},
 		{
-			"exerciseId": 1,
+			"exerciseId": 0,
 			"id": 276,
 			"reps": 5,
 			"units": "lb",
-			"weight": 152,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 1,
-			"id": 277,
-			"reps": 5,
-			"units": "lb",
-			"weight": 152,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 1,
-			"id": 278,
-			"reps": 5,
-			"units": "lb",
-			"weight": 152,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 1,
-			"id": 279,
-			"reps": 4,
-			"units": "lb",
-			"weight": 152,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 1,
-			"id": 280,
-			"reps": 3,
-			"units": "lb",
-			"weight": 152,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 2,
-			"id": 281,
-			"reps": 5,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 2,
-			"id": 282,
-			"reps": 3,
-			"units": "lb",
-			"weight": 135,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 2,
-			"id": 283,
-			"reps": 2,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 2,
-			"id": 284,
-			"reps": 5,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 2,
-			"id": 285,
-			"reps": 5,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 2,
-			"id": 286,
-			"reps": 3,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 2,
-			"id": 287,
-			"reps": 3,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 2,
-			"id": 288,
-			"reps": 3,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 8,
-			"id": 289,
-			"reps": 8,
-			"units": "lb",
-			"weight": 235,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 8,
-			"id": 290,
-			"reps": 8,
-			"units": "lb",
-			"weight": 235,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 8,
-			"id": 291,
-			"reps": 8,
-			"units": "lb",
-			"weight": 235,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 19,
-			"id": 292,
-			"reps": 8,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 19,
-			"id": 293,
-			"reps": 8,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 19,
-			"id": 294,
-			"reps": 8,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 29,
-			"id": 295,
-			"reps": 8,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 29,
-			"id": 296,
-			"reps": 8,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 29,
-			"id": 297,
-			"reps": 5,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 7
-		},
-		{
-			"exerciseId": 0,
-			"id": 298,
-			"reps": 5,
-			"units": "lb",
-			"weight": 130,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 0,
-			"id": 299,
-			"reps": 5,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 0,
-			"id": 300,
-			"reps": 3,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 0,
-			"id": 301,
-			"reps": 2,
-			"units": "lb",
-			"weight": 190,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 0,
-			"id": 302,
-			"reps": 5,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 0,
-			"id": 303,
-			"reps": 3,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 0,
-			"id": 304,
-			"reps": 3,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 0,
-			"id": 305,
-			"reps": 4,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 0,
-			"id": 306,
-			"reps": 2,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 5,
-			"id": 307,
-			"reps": 5,
-			"units": "lb",
 			"weight": 205,
-			"workoutId": 8
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 5,
-			"id": 308,
+			"exerciseId": 0,
+			"id": 277,
 			"reps": 3,
 			"units": "lb",
 			"weight": 225,
-			"workoutId": 8
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 5,
-			"id": 309,
+			"exerciseId": 0,
+			"id": 278,
 			"reps": 2,
 			"units": "lb",
 			"weight": 250,
-			"workoutId": 8
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 5,
-			"id": 310,
-			"reps": 3,
+			"exerciseId": 0,
+			"id": 279,
+			"reps": 5,
 			"units": "lb",
 			"weight": 275,
-			"workoutId": 8
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 5,
-			"id": 311,
-			"reps": 2,
-			"units": "lb",
-			"weight": 275,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 6,
-			"id": 312,
+			"exerciseId": 13,
+			"id": 280,
 			"reps": 5,
 			"units": "lb",
 			"weight": 45,
-			"workoutId": 8
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 6,
-			"id": 313,
+			"exerciseId": 13,
+			"id": 281,
 			"reps": 5,
 			"units": "lb",
 			"weight": 55,
-			"workoutId": 8
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 6,
-			"id": 314,
+			"exerciseId": 13,
+			"id": 282,
 			"reps": 3,
 			"units": "lb",
 			"weight": 65,
-			"workoutId": 8
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 6,
-			"id": 315,
+			"exerciseId": 13,
+			"id": 283,
 			"reps": 2,
 			"units": "lb",
 			"weight": 70,
-			"workoutId": 8
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 6,
-			"id": 316,
+			"exerciseId": 13,
+			"id": 284,
 			"reps": 5,
 			"units": "lb",
-			"weight": 80,
-			"workoutId": 8
+			"weight": 85,
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 6,
-			"id": 317,
+			"exerciseId": 13,
+			"id": 285,
 			"reps": 5,
 			"units": "lb",
-			"weight": 80,
-			"workoutId": 8
+			"weight": 85,
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 6,
-			"id": 318,
+			"exerciseId": 13,
+			"id": 286,
 			"reps": 5,
 			"units": "lb",
-			"weight": 80,
-			"workoutId": 8
+			"weight": 85,
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 6,
-			"id": 319,
+			"exerciseId": 13,
+			"id": 287,
 			"reps": 5,
 			"units": "lb",
-			"weight": 80,
-			"workoutId": 8
+			"weight": 85,
+			"workoutId": 7
 		},
 		{
-			"exerciseId": 6,
-			"id": 320,
+			"exerciseId": 13,
+			"id": 288,
 			"reps": 5,
 			"units": "lb",
-			"weight": 80,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 2,
-			"id": 321,
-			"reps": 3,
-			"units": "lb",
-			"weight": 135,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 2,
-			"id": 322,
-			"reps": 2,
-			"units": "lb",
-			"weight": 145,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 2,
-			"id": 323,
-			"reps": 2,
-			"units": "lb",
-			"weight": 145,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 2,
-			"id": 324,
-			"reps": 5,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 2,
-			"id": 325,
-			"reps": 5,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 2,
-			"id": 326,
-			"reps": 5,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 2,
-			"id": 327,
-			"reps": 4,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 2,
-			"id": 328,
-			"reps": 3,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 7,
-			"id": 329,
-			"reps": 8,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 7,
-			"id": 330,
-			"reps": 6,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 7,
-			"id": 331,
-			"reps": 8,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 8
-		},
-		{
-			"exerciseId": 0,
-			"id": 332,
-			"reps": 5,
-			"units": "lb",
-			"weight": 130,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 0,
-			"id": 333,
-			"reps": 5,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 0,
-			"id": 334,
-			"reps": 3,
-			"units": "lb",
-			"weight": 170,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 0,
-			"id": 335,
-			"reps": 2,
-			"units": "lb",
-			"weight": 190,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 0,
-			"id": 336,
-			"reps": 3,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 0,
-			"id": 337,
-			"reps": 1,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 0,
-			"id": 338,
-			"reps": 2,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 0,
-			"id": 339,
-			"reps": 1,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 0,
-			"id": 340,
-			"reps": 1,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 9
+			"weight": 85,
+			"workoutId": 7
 		},
 		{
 			"exerciseId": 1,
-			"id": 341,
+			"id": 289,
+			"reps": 3,
+			"units": "lb",
+			"weight": 135,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 1,
+			"id": 290,
+			"reps": 2,
+			"units": "lb",
+			"weight": 145,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 1,
+			"id": 291,
+			"reps": 2,
+			"units": "lb",
+			"weight": 145,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 1,
+			"id": 292,
+			"reps": 5,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 1,
+			"id": 293,
+			"reps": 4,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 1,
+			"id": 294,
+			"reps": 3,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 1,
+			"id": 295,
+			"reps": 3,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 1,
+			"id": 296,
+			"reps": 3,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 14,
+			"id": 297,
+			"reps": 8,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 14,
+			"id": 298,
+			"reps": 8,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 14,
+			"id": 299,
+			"reps": 5,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 31,
+			"id": 300,
+			"reps": 8,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 31,
+			"id": 301,
+			"reps": 4,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 31,
+			"id": 302,
+			"reps": 2,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 31,
+			"id": 303,
+			"reps": 3,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 31,
+			"id": 304,
+			"reps": 2,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 31,
+			"id": 305,
+			"reps": 3,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 7
+		},
+		{
+			"exerciseId": 9,
+			"id": 306,
+			"reps": 5,
+			"units": "lb",
+			"weight": 130,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 9,
+			"id": 307,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 9,
+			"id": 308,
+			"reps": 3,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 9,
+			"id": 309,
+			"reps": 2,
+			"units": "lb",
+			"weight": 190,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 9,
+			"id": 310,
+			"reps": 5,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 9,
+			"id": 311,
+			"reps": 5,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 9,
+			"id": 312,
+			"reps": 5,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 9,
+			"id": 313,
+			"reps": 5,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 9,
+			"id": 314,
+			"reps": 5,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 10,
+			"id": 315,
 			"reps": 5,
 			"units": "lb",
 			"weight": 105,
-			"workoutId": 9
+			"workoutId": 8
 		},
 		{
-			"exerciseId": 1,
-			"id": 342,
+			"exerciseId": 10,
+			"id": 316,
 			"reps": 5,
 			"units": "lb",
 			"weight": 115,
-			"workoutId": 9
+			"workoutId": 8
 		},
 		{
-			"exerciseId": 1,
-			"id": 343,
+			"exerciseId": 10,
+			"id": 317,
 			"reps": 3,
 			"units": "lb",
 			"weight": 125,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 10,
+			"id": 318,
+			"reps": 2,
+			"units": "lb",
+			"weight": 135,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 10,
+			"id": 319,
+			"reps": 5,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 10,
+			"id": 320,
+			"reps": 5,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 10,
+			"id": 321,
+			"reps": 5,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 10,
+			"id": 322,
+			"reps": 4,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 10,
+			"id": 323,
+			"reps": 3,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 1,
+			"id": 324,
+			"reps": 5,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 1,
+			"id": 325,
+			"reps": 3,
+			"units": "lb",
+			"weight": 135,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 1,
+			"id": 326,
+			"reps": 2,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 1,
+			"id": 327,
+			"reps": 5,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 1,
+			"id": 328,
+			"reps": 5,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 1,
+			"id": 329,
+			"reps": 3,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 1,
+			"id": 330,
+			"reps": 3,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 1,
+			"id": 331,
+			"reps": 3,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 4,
+			"id": 332,
+			"reps": 8,
+			"units": "lb",
+			"weight": 235,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 4,
+			"id": 333,
+			"reps": 8,
+			"units": "lb",
+			"weight": 235,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 4,
+			"id": 334,
+			"reps": 8,
+			"units": "lb",
+			"weight": 235,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 21,
+			"id": 335,
+			"reps": 8,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 21,
+			"id": 336,
+			"reps": 8,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 21,
+			"id": 337,
+			"reps": 8,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 31,
+			"id": 338,
+			"reps": 8,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 31,
+			"id": 339,
+			"reps": 8,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 31,
+			"id": 340,
+			"reps": 5,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 8
+		},
+		{
+			"exerciseId": 9,
+			"id": 341,
+			"reps": 5,
+			"units": "lb",
+			"weight": 130,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 9,
+			"id": 342,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 9,
+			"id": 343,
+			"reps": 3,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 9,
+			"id": 344,
+			"reps": 2,
+			"units": "lb",
+			"weight": 190,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 9,
+			"id": 345,
+			"reps": 5,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 9,
+			"id": 346,
+			"reps": 3,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 9,
+			"id": 347,
+			"reps": 3,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 9,
+			"id": 348,
+			"reps": 4,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 9,
+			"id": 349,
+			"reps": 2,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 0,
+			"id": 350,
+			"reps": 5,
+			"units": "lb",
+			"weight": 205,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 0,
+			"id": 351,
+			"reps": 3,
+			"units": "lb",
+			"weight": 225,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 0,
+			"id": 352,
+			"reps": 2,
+			"units": "lb",
+			"weight": 250,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 0,
+			"id": 353,
+			"reps": 3,
+			"units": "lb",
+			"weight": 275,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 0,
+			"id": 354,
+			"reps": 2,
+			"units": "lb",
+			"weight": 275,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 13,
+			"id": 355,
+			"reps": 5,
+			"units": "lb",
+			"weight": 45,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 13,
+			"id": 356,
+			"reps": 5,
+			"units": "lb",
+			"weight": 55,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 13,
+			"id": 357,
+			"reps": 3,
+			"units": "lb",
+			"weight": 65,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 13,
+			"id": 358,
+			"reps": 2,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 13,
+			"id": 359,
+			"reps": 5,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 13,
+			"id": 360,
+			"reps": 5,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 13,
+			"id": 361,
+			"reps": 5,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 13,
+			"id": 362,
+			"reps": 5,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 13,
+			"id": 363,
+			"reps": 5,
+			"units": "lb",
+			"weight": 80,
 			"workoutId": 9
 		},
 		{
 			"exerciseId": 1,
-			"id": 344,
-			"reps": 2,
+			"id": 364,
+			"reps": 3,
 			"units": "lb",
 			"weight": 135,
 			"workoutId": 9
 		},
 		{
 			"exerciseId": 1,
-			"id": 345,
-			"reps": 5,
-			"units": "lb",
-			"weight": 152,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 1,
-			"id": 346,
-			"reps": 4,
-			"units": "lb",
-			"weight": 152,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 1,
-			"id": 347,
-			"reps": 3,
-			"units": "lb",
-			"weight": 152,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 1,
-			"id": 348,
-			"reps": 3,
-			"units": "lb",
-			"weight": 152,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 1,
-			"id": 349,
-			"reps": 3,
-			"units": "lb",
-			"weight": 152,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 2,
-			"id": 350,
-			"reps": 5,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 2,
-			"id": 351,
-			"reps": 3,
-			"units": "lb",
-			"weight": 125,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 2,
-			"id": 352,
+			"id": 365,
 			"reps": 2,
 			"units": "lb",
 			"weight": 145,
 			"workoutId": 9
 		},
 		{
-			"exerciseId": 2,
-			"id": 353,
-			"reps": 5,
-			"units": "lb",
-			"weight": 165,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 2,
-			"id": 354,
-			"reps": 5,
-			"units": "lb",
-			"weight": 165,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 2,
-			"id": 355,
-			"reps": 5,
-			"units": "lb",
-			"weight": 165,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 2,
-			"id": 356,
-			"reps": 5,
-			"units": "lb",
-			"weight": 165,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 2,
-			"id": 357,
-			"reps": 5,
-			"units": "lb",
-			"weight": 165,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 8,
-			"id": 358,
-			"reps": 8,
-			"units": "lb",
-			"weight": 215,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 8,
-			"id": 359,
-			"reps": 8,
-			"units": "lb",
-			"weight": 215,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 8,
-			"id": 360,
-			"reps": 8,
-			"units": "lb",
-			"weight": 215,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 19,
-			"id": 361,
-			"reps": 8,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 19,
-			"id": 362,
-			"reps": 7,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 19,
-			"id": 363,
-			"reps": 4,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 29,
-			"id": 364,
-			"reps": 8,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 29,
-			"id": 365,
-			"reps": 7,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 9
-		},
-		{
-			"exerciseId": 29,
+			"exerciseId": 1,
 			"id": 366,
-			"reps": 6,
+			"reps": 2,
 			"units": "lb",
-			"weight": 70,
+			"weight": 145,
 			"workoutId": 9
 		},
 		{
-			"exerciseId": 5,
+			"exerciseId": 1,
 			"id": 367,
 			"reps": 5,
 			"units": "lb",
-			"weight": 205,
-			"workoutId": 10
+			"weight": 170,
+			"workoutId": 9
 		},
 		{
-			"exerciseId": 5,
+			"exerciseId": 1,
 			"id": 368,
+			"reps": 5,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 1,
+			"id": 369,
+			"reps": 5,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 1,
+			"id": 370,
+			"reps": 4,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 1,
+			"id": 371,
 			"reps": 3,
 			"units": "lb",
-			"weight": 225,
+			"weight": 170,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 14,
+			"id": 372,
+			"reps": 8,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 14,
+			"id": 373,
+			"reps": 6,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 14,
+			"id": 374,
+			"reps": 8,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 9
+		},
+		{
+			"exerciseId": 9,
+			"id": 375,
+			"reps": 5,
+			"units": "lb",
+			"weight": 130,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 5,
-			"id": 369,
+			"exerciseId": 9,
+			"id": 376,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 9,
+			"id": 377,
+			"reps": 3,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 9,
+			"id": 378,
 			"reps": 2,
 			"units": "lb",
-			"weight": 250,
+			"weight": 190,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 5,
-			"id": 370,
+			"exerciseId": 9,
+			"id": 379,
 			"reps": 3,
 			"units": "lb",
-			"weight": 275,
+			"weight": 210,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 5,
-			"id": 371,
+			"exerciseId": 9,
+			"id": 380,
 			"reps": 1,
 			"units": "lb",
-			"weight": 275,
+			"weight": 210,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 5,
-			"id": 372,
+			"exerciseId": 9,
+			"id": 381,
+			"reps": 2,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 9,
+			"id": 382,
 			"reps": 1,
 			"units": "lb",
-			"weight": 275,
+			"weight": 210,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 2,
-			"id": 373,
+			"exerciseId": 9,
+			"id": 383,
+			"reps": 1,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 10,
+			"id": 384,
+			"reps": 5,
+			"units": "lb",
+			"weight": 105,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 10,
+			"id": 385,
 			"reps": 5,
 			"units": "lb",
 			"weight": 115,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 2,
-			"id": 374,
-			"reps": 5,
+			"exerciseId": 10,
+			"id": 386,
+			"reps": 3,
 			"units": "lb",
-			"weight": 138,
+			"weight": 125,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 2,
-			"id": 375,
+			"exerciseId": 10,
+			"id": 387,
+			"reps": 2,
+			"units": "lb",
+			"weight": 135,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 10,
+			"id": 388,
+			"reps": 5,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 10,
+			"id": 389,
+			"reps": 4,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 10,
+			"id": 390,
 			"reps": 3,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 10,
+			"id": 391,
+			"reps": 3,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 10,
+			"id": 392,
+			"reps": 3,
+			"units": "lb",
+			"weight": 152,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 1,
+			"id": 393,
+			"reps": 5,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 1,
+			"id": 394,
+			"reps": 3,
+			"units": "lb",
+			"weight": 125,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 1,
+			"id": 395,
+			"reps": 2,
 			"units": "lb",
 			"weight": 145,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 2,
-			"id": 376,
-			"reps": 2,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 2,
-			"id": 377,
-			"reps": 5,
-			"units": "lb",
-			"weight": 162,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 2,
-			"id": 378,
-			"reps": 5,
-			"units": "lb",
-			"weight": 162,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 2,
-			"id": 379,
-			"reps": 5,
-			"units": "lb",
-			"weight": 162,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 2,
-			"id": 380,
-			"reps": 5,
-			"units": "lb",
-			"weight": 162,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 2,
-			"id": 381,
-			"reps": 5,
-			"units": "lb",
-			"weight": 162,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 2,
-			"id": 382,
-			"reps": 5,
-			"units": "lb",
-			"weight": 162,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 11,
-			"id": 383,
-			"reps": 6,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 11,
-			"id": 384,
-			"reps": 6,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 11,
-			"id": 385,
-			"reps": 6,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 11,
-			"id": 386,
-			"reps": 6,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 12,
-			"id": 387,
-			"reps": 10,
-			"units": "lb",
-			"weight": 80,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 12,
-			"id": 388,
-			"reps": 8,
-			"units": "lb",
-			"weight": 80,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 12,
-			"id": 389,
-			"reps": 10,
-			"units": "lb",
-			"weight": 80,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 8,
-			"id": 390,
-			"reps": 8,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 8,
-			"id": 391,
-			"reps": 8,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 8,
-			"id": 392,
-			"reps": 8,
-			"units": "lb",
-			"weight": 210,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 29,
-			"id": 393,
-			"reps": 12,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 29,
-			"id": 394,
-			"reps": 5,
-			"units": "lb",
-			"weight": 60,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 29,
-			"id": 395,
-			"reps": 3,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 29,
+			"exerciseId": 1,
 			"id": 396,
-			"reps": 4,
+			"reps": 5,
 			"units": "lb",
-			"weight": 60,
+			"weight": 165,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 29,
+			"exerciseId": 1,
 			"id": 397,
-			"reps": 2,
+			"reps": 5,
 			"units": "lb",
-			"weight": 50,
+			"weight": 165,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 29,
+			"exerciseId": 1,
 			"id": 398,
-			"reps": 6,
+			"reps": 5,
 			"units": "lb",
-			"weight": 50,
+			"weight": 165,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 30,
+			"exerciseId": 1,
 			"id": 399,
-			"reps": 6,
+			"reps": 5,
 			"units": "lb",
-			"weight": 30,
+			"weight": 165,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 30,
+			"exerciseId": 1,
 			"id": 400,
-			"reps": 12,
+			"reps": 5,
 			"units": "lb",
-			"weight": 25,
+			"weight": 165,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 30,
+			"exerciseId": 4,
 			"id": 401,
-			"reps": 12,
+			"reps": 8,
 			"units": "lb",
-			"weight": 25,
+			"weight": 215,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 31,
+			"exerciseId": 4,
 			"id": 402,
-			"reps": 6,
+			"reps": 8,
+			"units": "lb",
+			"weight": 215,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 4,
+			"id": 403,
+			"reps": 8,
+			"units": "lb",
+			"weight": 215,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 21,
+			"id": 404,
+			"reps": 8,
 			"units": "lb",
 			"weight": 50,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 31,
-			"id": 403,
+			"exerciseId": 21,
+			"id": 405,
+			"reps": 7,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 10
+		},
+		{
+			"exerciseId": 21,
+			"id": 406,
 			"reps": 4,
 			"units": "lb",
-			"weight": 30,
-			"workoutId": 10
-		},
-		{
-			"exerciseId": 31,
-			"id": 404,
-			"reps": 5,
-			"units": "lb",
 			"weight": 50,
 			"workoutId": 10
 		},
 		{
 			"exerciseId": 31,
-			"id": 405,
-			"reps": 5,
+			"id": 407,
+			"reps": 8,
 			"units": "lb",
-			"weight": 30,
+			"weight": 70,
 			"workoutId": 10
 		},
 		{
-			"exerciseId": 0,
-			"id": 406,
-			"reps": 5,
-			"units": "lb",
-			"weight": 130,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 0,
-			"id": 407,
-			"reps": 5,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 0,
+			"exerciseId": 31,
 			"id": 408,
-			"reps": 3,
+			"reps": 7,
 			"units": "lb",
-			"weight": 170,
-			"workoutId": 11
+			"weight": 70,
+			"workoutId": 10
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 31,
 			"id": 409,
-			"reps": 2,
+			"reps": 6,
 			"units": "lb",
-			"weight": 190,
-			"workoutId": 11
+			"weight": 70,
+			"workoutId": 10
 		},
 		{
 			"exerciseId": 0,
 			"id": 410,
 			"reps": 5,
 			"units": "lb",
-			"weight": 210,
+			"weight": 205,
 			"workoutId": 11
 		},
 		{
 			"exerciseId": 0,
 			"id": 411,
-			"reps": 4,
+			"reps": 3,
 			"units": "lb",
-			"weight": 210,
+			"weight": 225,
 			"workoutId": 11
 		},
 		{
 			"exerciseId": 0,
 			"id": 412,
-			"reps": 4,
+			"reps": 2,
 			"units": "lb",
-			"weight": 210,
+			"weight": 250,
 			"workoutId": 11
 		},
 		{
@@ -3505,1031 +3509,1159 @@
 			"id": 413,
 			"reps": 3,
 			"units": "lb",
-			"weight": 210,
+			"weight": 275,
 			"workoutId": 11
 		},
 		{
-			"exerciseId": 5,
+			"exerciseId": 0,
 			"id": 414,
-			"reps": 5,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 5,
-			"id": 415,
-			"reps": 3,
-			"units": "lb",
-			"weight": 225,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 5,
-			"id": 416,
-			"reps": 2,
-			"units": "lb",
-			"weight": 250,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 5,
-			"id": 417,
-			"reps": 5,
+			"reps": 1,
 			"units": "lb",
 			"weight": 275,
 			"workoutId": 11
 		},
 		{
 			"exerciseId": 0,
-			"id": 418,
-			"reps": 12,
+			"id": 415,
+			"reps": 1,
 			"units": "lb",
-			"weight": 95,
+			"weight": 275,
 			"workoutId": 11
 		},
 		{
-			"exerciseId": 0,
-			"id": 419,
-			"reps": 10,
+			"exerciseId": 1,
+			"id": 416,
+			"reps": 5,
 			"units": "lb",
 			"weight": 115,
 			"workoutId": 11
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 1,
+			"id": 417,
+			"reps": 5,
+			"units": "lb",
+			"weight": 138,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 1,
+			"id": 418,
+			"reps": 3,
+			"units": "lb",
+			"weight": 145,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 1,
+			"id": 419,
+			"reps": 2,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 1,
 			"id": 420,
+			"reps": 5,
+			"units": "lb",
+			"weight": 162,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 1,
+			"id": 421,
+			"reps": 5,
+			"units": "lb",
+			"weight": 162,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 1,
+			"id": 422,
+			"reps": 5,
+			"units": "lb",
+			"weight": 162,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 1,
+			"id": 423,
+			"reps": 5,
+			"units": "lb",
+			"weight": 162,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 1,
+			"id": 424,
+			"reps": 5,
+			"units": "lb",
+			"weight": 162,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 1,
+			"id": 425,
+			"reps": 5,
+			"units": "lb",
+			"weight": 162,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 2,
+			"id": 426,
 			"reps": 6,
 			"units": "lb",
-			"weight": 135,
+			"weight": 0,
 			"workoutId": 11
 		},
 		{
-			"exerciseId": 23,
-			"id": 421,
+			"exerciseId": 2,
+			"id": 427,
+			"reps": 6,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 2,
+			"id": 428,
+			"reps": 6,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 2,
+			"id": 429,
+			"reps": 6,
+			"units": "lb",
+			"weight": 0,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 3,
+			"id": 430,
 			"reps": 10,
 			"units": "lb",
-			"weight": 170,
+			"weight": 80,
 			"workoutId": 11
 		},
 		{
-			"exerciseId": 23,
-			"id": 422,
+			"exerciseId": 3,
+			"id": 431,
 			"reps": 8,
 			"units": "lb",
-			"weight": 170,
+			"weight": 80,
 			"workoutId": 11
 		},
 		{
-			"exerciseId": 23,
-			"id": 423,
+			"exerciseId": 3,
+			"id": 432,
 			"reps": 10,
 			"units": "lb",
-			"weight": 170,
+			"weight": 80,
 			"workoutId": 11
 		},
 		{
-			"exerciseId": 24,
-			"id": 424,
+			"exerciseId": 4,
+			"id": 433,
 			"reps": 8,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 4,
+			"id": 434,
+			"reps": 8,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 4,
+			"id": 435,
+			"reps": 8,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 31,
+			"id": 436,
+			"reps": 12,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 31,
+			"id": 437,
+			"reps": 5,
+			"units": "lb",
+			"weight": 60,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 31,
+			"id": 438,
+			"reps": 3,
 			"units": "lb",
 			"weight": 50,
 			"workoutId": 11
 		},
 		{
-			"exerciseId": 24,
-			"id": 425,
-			"reps": 6,
-			"units": "lb",
-			"weight": 70,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 24,
-			"id": 426,
+			"exerciseId": 31,
+			"id": 439,
 			"reps": 4,
 			"units": "lb",
-			"weight": 85,
+			"weight": 60,
 			"workoutId": 11
 		},
 		{
-			"exerciseId": 24,
-			"id": 427,
-			"reps": 12,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 24,
-			"id": 428,
-			"reps": 12,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 27,
-			"id": 429,
-			"reps": 10,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 27,
-			"id": 430,
-			"reps": 10,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 27,
-			"id": 431,
-			"reps": 12,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 28,
-			"id": 432,
-			"reps": 12,
-			"units": "lb",
-			"weight": 315,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 28,
-			"id": 433,
-			"reps": 12,
-			"units": "lb",
-			"weight": 320,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 28,
-			"id": 434,
-			"reps": 10,
-			"units": "lb",
-			"weight": 330,
-			"workoutId": 11
-		},
-		{
-			"exerciseId": 1,
-			"id": 435,
-			"reps": 5,
-			"units": "lb",
-			"weight": 105,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 1,
-			"id": 436,
-			"reps": 5,
-			"units": "lb",
-			"weight": 115,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 1,
-			"id": 437,
-			"reps": 3,
-			"units": "lb",
-			"weight": 125,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 1,
-			"id": 438,
+			"exerciseId": 31,
+			"id": 440,
 			"reps": 2,
 			"units": "lb",
-			"weight": 135,
-			"workoutId": 12
+			"weight": 50,
+			"workoutId": 11
 		},
 		{
-			"exerciseId": 1,
-			"id": 439,
-			"reps": 5,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 1,
-			"id": 440,
-			"reps": 5,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 1,
+			"exerciseId": 31,
 			"id": 441,
-			"reps": 5,
+			"reps": 6,
 			"units": "lb",
-			"weight": 150,
-			"workoutId": 12
+			"weight": 50,
+			"workoutId": 11
 		},
 		{
-			"exerciseId": 1,
+			"exerciseId": 32,
 			"id": 442,
-			"reps": 5,
+			"reps": 6,
 			"units": "lb",
-			"weight": 150,
-			"workoutId": 12
+			"weight": 30,
+			"workoutId": 11
 		},
 		{
-			"exerciseId": 1,
+			"exerciseId": 32,
 			"id": 443,
-			"reps": 5,
+			"reps": 12,
 			"units": "lb",
-			"weight": 150,
-			"workoutId": 12
+			"weight": 25,
+			"workoutId": 11
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 32,
 			"id": 444,
-			"reps": 5,
+			"reps": 12,
 			"units": "lb",
-			"weight": 45,
-			"workoutId": 12
+			"weight": 25,
+			"workoutId": 11
 		},
 		{
 			"exerciseId": 6,
 			"id": 445,
-			"reps": 5,
+			"reps": 6,
 			"units": "lb",
-			"weight": 55,
-			"workoutId": 12
+			"weight": 50,
+			"workoutId": 11
 		},
 		{
 			"exerciseId": 6,
 			"id": 446,
-			"reps": 3,
+			"reps": 4,
 			"units": "lb",
-			"weight": 65,
-			"workoutId": 12
+			"weight": 30,
+			"workoutId": 11
 		},
 		{
 			"exerciseId": 6,
 			"id": 447,
-			"reps": 2,
+			"reps": 5,
 			"units": "lb",
-			"weight": 75,
-			"workoutId": 12
+			"weight": 50,
+			"workoutId": 11
 		},
 		{
 			"exerciseId": 6,
 			"id": 448,
+			"reps": 5,
+			"units": "lb",
+			"weight": 30,
+			"workoutId": 11
+		},
+		{
+			"exerciseId": 9,
+			"id": 449,
+			"reps": 5,
+			"units": "lb",
+			"weight": 130,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 9,
+			"id": 450,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 9,
+			"id": 451,
+			"reps": 3,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 9,
+			"id": 452,
 			"reps": 2,
 			"units": "lb",
-			"weight": 85,
+			"weight": 190,
 			"workoutId": 12
 		},
 		{
-			"exerciseId": 6,
-			"id": 449,
-			"reps": 3,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 6,
-			"id": 450,
-			"reps": 3,
-			"units": "lb",
-			"weight": 80,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 6,
-			"id": 451,
-			"reps": 4,
-			"units": "lb",
-			"weight": 75,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 16,
-			"id": 452,
-			"reps": 10,
-			"units": "lb",
-			"weight": 40,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 16,
+			"exerciseId": 9,
 			"id": 453,
-			"reps": 10,
+			"reps": 5,
 			"units": "lb",
-			"weight": 40,
+			"weight": 210,
 			"workoutId": 12
 		},
 		{
-			"exerciseId": 16,
+			"exerciseId": 9,
 			"id": 454,
-			"reps": 6,
-			"units": "lb",
-			"weight": 40,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 15,
-			"id": 455,
-			"reps": 8,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 15,
-			"id": 456,
-			"reps": 6,
-			"units": "lb",
-			"weight": 45,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 15,
-			"id": 457,
-			"reps": 6,
-			"units": "lb",
-			"weight": 45,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 32,
-			"id": 458,
-			"reps": 6,
-			"units": "lb",
-			"weight": 100,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 32,
-			"id": 459,
-			"reps": 6,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 32,
-			"id": 460,
 			"reps": 4,
 			"units": "lb",
-			"weight": 110,
+			"weight": 210,
 			"workoutId": 12
 		},
 		{
-			"exerciseId": 32,
+			"exerciseId": 9,
+			"id": 455,
+			"reps": 4,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 9,
+			"id": 456,
+			"reps": 3,
+			"units": "lb",
+			"weight": 210,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 0,
+			"id": 457,
+			"reps": 5,
+			"units": "lb",
+			"weight": 205,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 0,
+			"id": 458,
+			"reps": 3,
+			"units": "lb",
+			"weight": 225,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 0,
+			"id": 459,
+			"reps": 2,
+			"units": "lb",
+			"weight": 250,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 0,
+			"id": 460,
+			"reps": 5,
+			"units": "lb",
+			"weight": 275,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 9,
 			"id": 461,
 			"reps": 12,
-			"units": "lb",
-			"weight": 0,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 18,
-			"id": 462,
-			"reps": 12,
-			"units": "lb",
-			"weight": 15,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 18,
-			"id": 463,
-			"reps": 10,
-			"units": "lb",
-			"weight": 20,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 18,
-			"id": 464,
-			"reps": 7,
-			"units": "lb",
-			"weight": 25,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 20,
-			"id": 465,
-			"reps": 10,
-			"units": "lb",
-			"weight": 24,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 20,
-			"id": 466,
-			"reps": 6,
-			"units": "lb",
-			"weight": 24,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 20,
-			"id": 467,
-			"reps": 7,
-			"units": "lb",
-			"weight": 20,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 17,
-			"id": 468,
-			"reps": 12,
-			"units": "lb",
-			"weight": 20,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 17,
-			"id": 469,
-			"reps": 10,
-			"units": "lb",
-			"weight": 25,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 19,
-			"id": 470,
-			"reps": 8,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 19,
-			"id": 471,
-			"reps": 6,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 19,
-			"id": 472,
-			"reps": 8,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 7,
-			"id": 473,
-			"reps": 6,
-			"units": "lb",
-			"weight": 105,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 7,
-			"id": 474,
-			"reps": 6,
 			"units": "lb",
 			"weight": 95,
 			"workoutId": 12
 		},
 		{
-			"exerciseId": 7,
-			"id": 475,
-			"reps": 5,
+			"exerciseId": 9,
+			"id": 462,
+			"reps": 10,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 9,
+			"id": 463,
+			"reps": 6,
+			"units": "lb",
+			"weight": 135,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 25,
+			"id": 464,
+			"reps": 10,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 25,
+			"id": 465,
+			"reps": 8,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 25,
+			"id": 466,
+			"reps": 10,
+			"units": "lb",
+			"weight": 170,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 26,
+			"id": 467,
+			"reps": 8,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 26,
+			"id": 468,
+			"reps": 6,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 26,
+			"id": 469,
+			"reps": 4,
 			"units": "lb",
 			"weight": 85,
 			"workoutId": 12
 		},
 		{
-			"exerciseId": 4,
-			"id": 476,
-			"reps": 8,
-			"units": "lb",
-			"weight": 20,
-			"workoutId": 12
-		},
-		{
-			"exerciseId": 4,
-			"id": 477,
+			"exerciseId": 26,
+			"id": 470,
 			"reps": 12,
 			"units": "lb",
-			"weight": 5,
+			"weight": 85,
 			"workoutId": 12
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 26,
+			"id": 471,
+			"reps": 12,
+			"units": "lb",
+			"weight": 85,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 29,
+			"id": 472,
+			"reps": 10,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 29,
+			"id": 473,
+			"reps": 10,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 29,
+			"id": 474,
+			"reps": 12,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 30,
+			"id": 475,
+			"reps": 12,
+			"units": "lb",
+			"weight": 315,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 30,
+			"id": 476,
+			"reps": 12,
+			"units": "lb",
+			"weight": 320,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 30,
+			"id": 477,
+			"reps": 10,
+			"units": "lb",
+			"weight": 330,
+			"workoutId": 12
+		},
+		{
+			"exerciseId": 10,
 			"id": 478,
-			"reps": 5,
-			"units": "lb",
-			"weight": 125,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 0,
-			"id": 479,
-			"reps": 5,
-			"units": "lb",
-			"weight": 145,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 0,
-			"id": 480,
-			"reps": 3,
-			"units": "lb",
-			"weight": 165,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 0,
-			"id": 481,
-			"reps": 2,
-			"units": "lb",
-			"weight": 185,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 0,
-			"id": 482,
-			"reps": 5,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 0,
-			"id": 483,
-			"reps": 5,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 0,
-			"id": 484,
-			"reps": 5,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 0,
-			"id": 485,
-			"reps": 5,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 0,
-			"id": 486,
-			"reps": 5,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 1,
-			"id": 487,
 			"reps": 5,
 			"units": "lb",
 			"weight": 105,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 1,
-			"id": 488,
+			"exerciseId": 10,
+			"id": 479,
 			"reps": 5,
 			"units": "lb",
 			"weight": 115,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 1,
-			"id": 489,
+			"exerciseId": 10,
+			"id": 480,
 			"reps": 3,
 			"units": "lb",
 			"weight": 125,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 1,
-			"id": 490,
+			"exerciseId": 10,
+			"id": 481,
 			"reps": 2,
 			"units": "lb",
 			"weight": 135,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 1,
-			"id": 491,
+			"exerciseId": 10,
+			"id": 482,
 			"reps": 5,
 			"units": "lb",
 			"weight": 150,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 1,
-			"id": 492,
+			"exerciseId": 10,
+			"id": 483,
 			"reps": 5,
 			"units": "lb",
 			"weight": 150,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 1,
-			"id": 493,
+			"exerciseId": 10,
+			"id": 484,
 			"reps": 5,
 			"units": "lb",
 			"weight": 150,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 1,
-			"id": 494,
-			"reps": 4,
-			"units": "lb",
-			"weight": 150,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 1,
-			"id": 495,
+			"exerciseId": 10,
+			"id": 485,
 			"reps": 5,
 			"units": "lb",
 			"weight": 150,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 2,
-			"id": 496,
+			"exerciseId": 10,
+			"id": 486,
 			"reps": 5,
 			"units": "lb",
-			"weight": 115,
+			"weight": 150,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 2,
-			"id": 497,
-			"reps": 3,
-			"units": "lb",
-			"weight": 125,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 2,
-			"id": 498,
-			"reps": 2,
-			"units": "lb",
-			"weight": 145,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 2,
-			"id": 499,
+			"exerciseId": 13,
+			"id": 487,
 			"reps": 5,
-			"units": "lb",
-			"weight": 160,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 2,
-			"id": 500,
-			"reps": 5,
-			"units": "lb",
-			"weight": 160,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 2,
-			"id": 501,
-			"reps": 5,
-			"units": "lb",
-			"weight": 160,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 2,
-			"id": 502,
-			"reps": 5,
-			"units": "lb",
-			"weight": 160,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 2,
-			"id": 503,
-			"reps": 5,
-			"units": "lb",
-			"weight": 160,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 2,
-			"id": 504,
-			"reps": 5,
-			"units": "lb",
-			"weight": 160,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 8,
-			"id": 505,
-			"reps": 8,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 8,
-			"id": 506,
-			"reps": 8,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 8,
-			"id": 507,
-			"reps": 8,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 19,
-			"id": 508,
-			"reps": 8,
 			"units": "lb",
 			"weight": 45,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 19,
-			"id": 509,
-			"reps": 8,
-			"units": "lb",
-			"weight": 50,
-			"workoutId": 13
-		},
-		{
-			"exerciseId": 19,
-			"id": 510,
+			"exerciseId": 13,
+			"id": 488,
 			"reps": 5,
 			"units": "lb",
+			"weight": 55,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 13,
+			"id": 489,
+			"reps": 3,
+			"units": "lb",
+			"weight": 65,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 13,
+			"id": 490,
+			"reps": 2,
+			"units": "lb",
+			"weight": 75,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 13,
+			"id": 491,
+			"reps": 2,
+			"units": "lb",
+			"weight": 85,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 13,
+			"id": 492,
+			"reps": 3,
+			"units": "lb",
+			"weight": 85,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 13,
+			"id": 493,
+			"reps": 3,
+			"units": "lb",
+			"weight": 80,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 13,
+			"id": 494,
+			"reps": 4,
+			"units": "lb",
+			"weight": 75,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 18,
+			"id": 495,
+			"reps": 10,
+			"units": "lb",
+			"weight": 40,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 18,
+			"id": 496,
+			"reps": 10,
+			"units": "lb",
+			"weight": 40,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 18,
+			"id": 497,
+			"reps": 6,
+			"units": "lb",
+			"weight": 40,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 17,
+			"id": 498,
+			"reps": 8,
+			"units": "lb",
 			"weight": 50,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 29,
-			"id": 511,
-			"reps": 8,
+			"exerciseId": 17,
+			"id": 499,
+			"reps": 6,
 			"units": "lb",
-			"weight": 70,
+			"weight": 45,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 29,
-			"id": 512,
-			"reps": 8,
+			"exerciseId": 17,
+			"id": 500,
+			"reps": 6,
 			"units": "lb",
-			"weight": 70,
+			"weight": 45,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 29,
-			"id": 513,
+			"exerciseId": 33,
+			"id": 501,
+			"reps": 6,
+			"units": "lb",
+			"weight": 100,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 33,
+			"id": 502,
+			"reps": 6,
+			"units": "lb",
+			"weight": 85,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 33,
+			"id": 503,
 			"reps": 4,
 			"units": "lb",
-			"weight": 70,
+			"weight": 110,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 29,
-			"id": 514,
-			"reps": 2,
+			"exerciseId": 33,
+			"id": 504,
+			"reps": 12,
 			"units": "lb",
-			"weight": 70,
+			"weight": 0,
 			"workoutId": 13
 		},
 		{
-			"exerciseId": 0,
+			"exerciseId": 20,
+			"id": 505,
+			"reps": 12,
+			"units": "lb",
+			"weight": 15,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 20,
+			"id": 506,
+			"reps": 10,
+			"units": "lb",
+			"weight": 20,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 20,
+			"id": 507,
+			"reps": 7,
+			"units": "lb",
+			"weight": 25,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 22,
+			"id": 508,
+			"reps": 10,
+			"units": "lb",
+			"weight": 24,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 22,
+			"id": 509,
+			"reps": 6,
+			"units": "lb",
+			"weight": 24,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 22,
+			"id": 510,
+			"reps": 7,
+			"units": "lb",
+			"weight": 20,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 19,
+			"id": 511,
+			"reps": 12,
+			"units": "lb",
+			"weight": 20,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 19,
+			"id": 512,
+			"reps": 10,
+			"units": "lb",
+			"weight": 25,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 21,
+			"id": 513,
+			"reps": 8,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 21,
+			"id": 514,
+			"reps": 6,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 21,
 			"id": 515,
+			"reps": 8,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 14,
+			"id": 516,
+			"reps": 6,
+			"units": "lb",
+			"weight": 105,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 14,
+			"id": 517,
+			"reps": 6,
+			"units": "lb",
+			"weight": 95,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 14,
+			"id": 518,
+			"reps": 5,
+			"units": "lb",
+			"weight": 85,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 12,
+			"id": 519,
+			"reps": 8,
+			"units": "lb",
+			"weight": 20,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 12,
+			"id": 520,
+			"reps": 12,
+			"units": "lb",
+			"weight": 5,
+			"workoutId": 13
+		},
+		{
+			"exerciseId": 9,
+			"id": 521,
 			"reps": 5,
 			"units": "lb",
 			"weight": 125,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 0,
-			"id": 516,
+			"exerciseId": 9,
+			"id": 522,
 			"reps": 5,
 			"units": "lb",
 			"weight": 145,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 0,
-			"id": 517,
+			"exerciseId": 9,
+			"id": 523,
 			"reps": 3,
 			"units": "lb",
 			"weight": 165,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 0,
-			"id": 518,
+			"exerciseId": 9,
+			"id": 524,
 			"reps": 2,
 			"units": "lb",
 			"weight": 185,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 0,
-			"id": 519,
-			"reps": 5,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 0,
-			"id": 520,
-			"reps": 5,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 0,
-			"id": 521,
-			"reps": 3,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 0,
-			"id": 522,
-			"reps": 4,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 0,
-			"id": 523,
-			"reps": 3,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 5,
-			"id": 524,
-			"reps": 5,
-			"units": "lb",
-			"weight": 205,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 5,
+			"exerciseId": 9,
 			"id": 525,
-			"reps": 3,
+			"reps": 5,
 			"units": "lb",
-			"weight": 230,
+			"weight": 205,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 5,
+			"exerciseId": 9,
 			"id": 526,
-			"reps": 2,
+			"reps": 5,
 			"units": "lb",
-			"weight": 250,
+			"weight": 205,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 5,
+			"exerciseId": 9,
 			"id": 527,
 			"reps": 5,
 			"units": "lb",
-			"weight": 280,
+			"weight": 205,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 5,
+			"exerciseId": 9,
 			"id": 528,
 			"reps": 5,
 			"units": "lb",
-			"weight": 0,
+			"weight": 205,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 9,
 			"id": 529,
 			"reps": 5,
 			"units": "lb",
-			"weight": 45,
+			"weight": 205,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 10,
 			"id": 530,
 			"reps": 5,
 			"units": "lb",
-			"weight": 55,
+			"weight": 105,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 10,
 			"id": 531,
-			"reps": 3,
+			"reps": 5,
 			"units": "lb",
-			"weight": 65,
+			"weight": 115,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 10,
 			"id": 532,
-			"reps": 2,
+			"reps": 3,
 			"units": "lb",
-			"weight": 75,
+			"weight": 125,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 6,
+			"exerciseId": 10,
 			"id": 533,
-			"reps": 5,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 6,
-			"id": 534,
-			"reps": 4,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 6,
-			"id": 535,
-			"reps": 3,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 6,
-			"id": 536,
-			"reps": 3,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 6,
-			"id": 537,
-			"reps": 3,
-			"units": "lb",
-			"weight": 85,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 2,
-			"id": 538,
-			"reps": 5,
-			"units": "lb",
-			"weight": 128,
-			"workoutId": 14
-		},
-		{
-			"exerciseId": 2,
-			"id": 539,
-			"reps": 3,
+			"reps": 2,
 			"units": "lb",
 			"weight": 135,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 2,
+			"exerciseId": 10,
+			"id": 534,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 10,
+			"id": 535,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 10,
+			"id": 536,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 10,
+			"id": 537,
+			"reps": 4,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 10,
+			"id": 538,
+			"reps": 5,
+			"units": "lb",
+			"weight": 150,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 1,
+			"id": 539,
+			"reps": 5,
+			"units": "lb",
+			"weight": 115,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 1,
 			"id": 540,
+			"reps": 3,
+			"units": "lb",
+			"weight": 125,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 1,
+			"id": 541,
 			"reps": 2,
 			"units": "lb",
 			"weight": 145,
 			"workoutId": 14
 		},
 		{
-			"exerciseId": 2,
-			"id": 541,
+			"exerciseId": 1,
+			"id": 542,
 			"reps": 5,
 			"units": "lb",
 			"weight": 160,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 1,
+			"id": 543,
+			"reps": 5,
+			"units": "lb",
+			"weight": 160,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 1,
+			"id": 544,
+			"reps": 5,
+			"units": "lb",
+			"weight": 160,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 1,
+			"id": 545,
+			"reps": 5,
+			"units": "lb",
+			"weight": 160,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 1,
+			"id": 546,
+			"reps": 5,
+			"units": "lb",
+			"weight": 160,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 1,
+			"id": 547,
+			"reps": 5,
+			"units": "lb",
+			"weight": 160,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 4,
+			"id": 548,
+			"reps": 8,
+			"units": "lb",
+			"weight": 205,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 4,
+			"id": 549,
+			"reps": 8,
+			"units": "lb",
+			"weight": 205,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 4,
+			"id": 550,
+			"reps": 8,
+			"units": "lb",
+			"weight": 205,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 21,
+			"id": 551,
+			"reps": 8,
+			"units": "lb",
+			"weight": 45,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 21,
+			"id": 552,
+			"reps": 8,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 21,
+			"id": 553,
+			"reps": 5,
+			"units": "lb",
+			"weight": 50,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 31,
+			"id": 554,
+			"reps": 8,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 31,
+			"id": 555,
+			"reps": 8,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 31,
+			"id": 556,
+			"reps": 4,
+			"units": "lb",
+			"weight": 70,
+			"workoutId": 14
+		},
+		{
+			"exerciseId": 31,
+			"id": 557,
+			"reps": 2,
+			"units": "lb",
+			"weight": 70,
 			"workoutId": 14
 		}
 	],
@@ -4538,7 +4670,7 @@
 			"dateId": 0,
 			"exercises": [
 				{
-					"comments": "Too much weight on arms = throbbing pain in biceps. Ditched final set for this reason. This always happens when experimenting with new max weight. Might look into elbow sleeves \n\nWoke up with this pain too which hasn't happened to me in a long time.",
+					"comments": "1x5 set + 1x2 set: last rep wasn't too clean. Need to make sure this doesn't become a habit ",
 					"exerciseId": 0,
 					"id": 0,
 					"setIds": [
@@ -4548,22 +4680,29 @@
 						4,
 						5,
 						6,
-						7,
-						8,
-						9,
-						9
+						6
 					]
 				},
 				{
-					"comments": "I would have crushed this if it wasn't for the bicep pain. Lost some tightness because of it.\n\nNext time. God damn it. ",
+					"comments": "",
 					"exerciseId": 1,
 					"id": 1,
 					"setIds": [
+						7,
+						8,
+						9,
 						10,
 						11,
 						12,
 						13,
-						14,
+						14
+					]
+				},
+				{
+					"comments": "Proud of this! Next time might try 7-7-7-6. Can't wait to reach ",
+					"exerciseId": 2,
+					"id": 2,
+					"setIds": [
 						15,
 						16,
 						17,
@@ -4572,39 +4711,74 @@
 					]
 				},
 				{
-					"comments": "Why couldn't this have happened with Bench?! :'(",
-					"exerciseId": 2,
-					"id": 2,
+					"comments": "Variation: Neutral grip",
+					"exerciseId": 3,
+					"id": 3,
 					"setIds": [
 						19,
 						20,
 						21,
+						21
+					]
+				},
+				{
+					"comments": "not getting full ROM. Drop by 10-15 maybe?",
+					"exerciseId": 4,
+					"id": 4,
+					"setIds": [
 						22,
 						23,
 						24,
+						24
+					]
+				},
+				{
+					"comments": "Sets 2 + 3 and 4 + 5 + 6 = drop sets ",
+					"exerciseId": 5,
+					"id": 5,
+					"setIds": [
 						25,
 						26,
-						26
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						34
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 3,
-					"id": 3,
+					"exerciseId": 6,
+					"id": 6,
 					"setIds": [
-						27,
-						28
+						35,
+						36,
+						37
 					]
 				},
 				{
-					"comments": "Ah well. Maybe next workout will be better.",
-					"exerciseId": 4,
-					"id": 4,
+					"comments": "Alternating",
+					"exerciseId": 7,
+					"id": 7,
 					"setIds": [
-						29,
-						30,
-						31,
-						31
+						38,
+						39,
+						40,
+						40
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 8,
+					"id": 8,
+					"setIds": [
+						41,
+						42,
+						43
 					]
 				}
 			],
@@ -4614,39 +4788,12 @@
 			"dateId": 1,
 			"exercises": [
 				{
-					"comments": "Left bicep not too happy. When I'm getting stuck I'm flexing my arms and trying to compensate on that end. Need to be careful.",
-					"exerciseId": 0,
+					"comments": "Too much weight on arms = throbbing pain in biceps. Ditched final set for this reason. This always happens when experimenting with new max weight. Might look into elbow sleeves \n\nWoke up with this pain too which hasn't happened to me in a long time.",
+					"exerciseId": 9,
 					"id": 0,
 					"setIds": [
-						32,
-						33,
-						34,
-						35,
-						36,
-						37,
-						38,
-						39,
-						40,
-						40
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 5,
-					"id": 1,
-					"setIds": [
-						41,
-						42,
-						43,
 						44,
-						45
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 6,
-					"id": 2,
-					"setIds": [
+						45,
 						46,
 						47,
 						48,
@@ -4654,15 +4801,16 @@
 						50,
 						51,
 						52,
-						53,
-						54
+						52
 					]
 				},
 				{
-					"comments": "",
-					"exerciseId": 2,
-					"id": 3,
+					"comments": "I would have crushed this if it wasn't for the bicep pain. Lost some tightness because of it.\n\nNext time. God damn it. ",
+					"exerciseId": 10,
+					"id": 1,
 					"setIds": [
+						53,
+						54,
 						55,
 						56,
 						57,
@@ -4670,18 +4818,43 @@
 						59,
 						60,
 						61,
-						62
+						61
+					]
+				},
+				{
+					"comments": "Why couldn't this have happened with Bench?! :'(",
+					"exerciseId": 1,
+					"id": 2,
+					"setIds": [
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						69
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 7,
+					"exerciseId": 11,
+					"id": 3,
+					"setIds": [
+						70,
+						71
+					]
+				},
+				{
+					"comments": "Ah well. Maybe next workout will be better.",
+					"exerciseId": 12,
 					"id": 4,
 					"setIds": [
-						63,
-						64,
-						65,
-						66
+						72,
+						73,
+						74,
+						74
 					]
 				}
 			],
@@ -4691,26 +4864,11 @@
 			"dateId": 2,
 			"exercises": [
 				{
-					"comments": "",
-					"exerciseId": 0,
+					"comments": "Left bicep not too happy. When I'm getting stuck I'm flexing my arms and trying to compensate on that end. Need to be careful.",
+					"exerciseId": 9,
 					"id": 0,
 					"setIds": [
-						67,
-						68,
-						69,
-						70,
-						71,
-						72,
-						73,
-						74,
-						75
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 1,
-					"id": 1,
-					"setIds": [
+						75,
 						76,
 						77,
 						78,
@@ -4719,71 +4877,61 @@
 						81,
 						82,
 						83,
-						84
+						83
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 2,
-					"id": 2,
+					"exerciseId": 0,
+					"id": 1,
 					"setIds": [
+						84,
 						85,
 						86,
 						87,
-						88,
-						89,
-						90,
-						91,
-						92
-					]
-				},
-				{
-					"comments": "Right trap was tight yesterday. Felt a small sharp pain during last rep second set. Worth trying at this weight one more time, if ROM still an issue then deload by 10-20%",
-					"exerciseId": 8,
-					"id": 3,
-					"setIds": [
-						93,
-						94,
-						95,
-						95
+						88
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 9,
-					"id": 4,
+					"exerciseId": 13,
+					"id": 2,
 					"setIds": [
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
 						96,
-						97,
+						97
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 1,
+					"id": 3,
+					"setIds": [
 						98,
 						99,
 						100,
 						101,
 						102,
-						103
+						103,
+						104,
+						105
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 10,
-					"id": 5,
+					"exerciseId": 14,
+					"id": 4,
 					"setIds": [
-						104,
-						105,
-						106
-					]
-				},
-				{
-					"comments": "Sets 2+3 and 4+5 are supersets",
-					"exerciseId": 10,
-					"id": 6,
-					"setIds": [
+						106,
 						107,
 						108,
-						109,
-						110,
-						111,
-						111
+						109
 					]
 				}
 			],
@@ -4794,112 +4942,98 @@
 			"exercises": [
 				{
 					"comments": "",
-					"exerciseId": 5,
+					"exerciseId": 9,
 					"id": 0,
 					"setIds": [
+						110,
+						111,
 						112,
 						113,
 						114,
-						115
+						115,
+						116,
+						117,
+						118
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 2,
+					"exerciseId": 10,
 					"id": 1,
 					"setIds": [
-						116,
-						117,
-						118,
 						119,
 						120,
 						121,
 						122,
-						123
-					]
-				},
-				{
-					"comments": "Proud of this! Next time might try 7-7-7-6. Can't wait to reach ",
-					"exerciseId": 11,
-					"id": 2,
-					"setIds": [
+						123,
 						124,
 						125,
 						126,
-						127,
-						128,
-						128
-					]
-				},
-				{
-					"comments": "Palms facing each other",
-					"exerciseId": 12,
-					"id": 3,
-					"setIds": [
-						129,
-						130,
-						131,
-						131
-					]
-				},
-				{
-					"comments": "not getting full ROM. Drop by 10-15 maybe?",
-					"exerciseId": 8,
-					"id": 4,
-					"setIds": [
-						132,
-						133,
-						134,
-						134
+						127
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 13,
-					"id": 5,
+					"exerciseId": 1,
+					"id": 2,
 					"setIds": [
+						128,
+						129,
+						130,
+						131,
+						132,
+						133,
+						134,
 						135
 					]
 				},
 				{
-					"comments": "Sets 2 + 3 and 4 + 5 + 6 = drop sets ",
-					"exerciseId": 9,
-					"id": 6,
+					"comments": "Right trap was tight yesterday. Felt a small sharp pain during last rep second set. Worth trying at this weight one more time, if ROM still an issue then deload by 10-20%",
+					"exerciseId": 4,
+					"id": 3,
 					"setIds": [
 						136,
 						137,
 						138,
+						138
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 5,
+					"id": 4,
+					"setIds": [
 						139,
 						140,
 						141,
 						142,
 						143,
 						144,
-						144
+						145,
+						146
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 14,
-					"id": 7,
+					"exerciseId": 15,
+					"id": 5,
 					"setIds": [
-						145,
-						146,
 						147,
 						148,
-						149,
-						150
+						149
 					]
 				},
 				{
-					"comments": "Alternating",
-					"exerciseId": 13,
-					"id": 8,
+					"comments": "Sets 2+3 and 4+5 are supersets",
+					"exerciseId": 15,
+					"id": 6,
 					"setIds": [
+						150,
 						151,
 						152,
 						153,
-						153
+						154,
+						154
 					]
 				}
 			],
@@ -4909,126 +5043,113 @@
 			"dateId": 4,
 			"exercises": [
 				{
-					"comments": "Slow and steady wins the race. Thankful I didn't let ego get in the way and stayed on target ",
-					"exerciseId": 1,
+					"comments": "",
+					"exerciseId": 0,
 					"id": 0,
 					"setIds": [
-						154,
 						155,
 						156,
 						157,
-						158,
+						158
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 1,
+					"id": 1,
+					"setIds": [
 						159,
 						160,
 						161,
 						162,
-						162
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 6,
-					"id": 1,
-					"setIds": [
 						163,
 						164,
 						165,
-						166,
+						166
+					]
+				},
+				{
+					"comments": "Proud of this! Next time might try 7-7-7-6. Can't wait to reach ",
+					"exerciseId": 2,
+					"id": 2,
+					"setIds": [
 						167,
 						168,
 						169,
 						170,
+						171,
 						171
 					]
 				},
 				{
-					"comments": "",
-					"exerciseId": 15,
-					"id": 2,
+					"comments": "Palms facing each other",
+					"exerciseId": 3,
+					"id": 3,
 					"setIds": [
 						172,
 						173,
+						174,
 						174
 					]
 				},
 				{
-					"comments": "",
-					"exerciseId": 16,
-					"id": 3,
+					"comments": "not getting full ROM. Drop by 10-15 maybe?",
+					"exerciseId": 4,
+					"id": 4,
 					"setIds": [
 						175,
 						176,
+						177,
 						177
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 17,
-					"id": 4,
-					"setIds": [
-						178,
-						179,
-						180
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 18,
+					"exerciseId": 7,
 					"id": 5,
 					"setIds": [
-						181,
-						182,
-						183
+						178
 					]
 				},
 				{
-					"comments": "Triceps left the building ",
-					"exerciseId": 19,
+					"comments": "Sets 2 + 3 and 4 + 5 + 6 = drop sets ",
+					"exerciseId": 5,
 					"id": 6,
 					"setIds": [
+						179,
+						180,
+						181,
+						182,
+						183,
 						184,
 						185,
 						186,
-						186
+						187,
+						187
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 20,
+					"exerciseId": 16,
 					"id": 7,
 					"setIds": [
-						187,
 						188,
-						189
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 7,
-					"id": 8,
-					"setIds": [
+						189,
 						190,
-						191
-					]
-				},
-				{
-					"comments": "Standing single arm",
-					"exerciseId": 21,
-					"id": 9,
-					"setIds": [
+						191,
 						192,
-						193,
 						193
 					]
 				},
 				{
-					"comments": "Single arm",
-					"exerciseId": 22,
-					"id": 10,
+					"comments": "Alternating",
+					"exerciseId": 7,
+					"id": 8,
 					"setIds": [
 						194,
 						195,
-						195
+						196,
+						196
 					]
 				}
 			],
@@ -5038,11 +5159,10 @@
 			"dateId": 5,
 			"exercises": [
 				{
-					"comments": "New 5x5 PR! So close to 2 plates I can almost taste it! Form feeling better but I may be sacrificing depth a little ",
-					"exerciseId": 0,
+					"comments": "Slow and steady wins the race. Thankful I didn't let ego get in the way and stayed on target ",
+					"exerciseId": 10,
 					"id": 0,
 					"setIds": [
-						196,
 						197,
 						198,
 						199,
@@ -5057,74 +5177,108 @@
 				},
 				{
 					"comments": "",
-					"exerciseId": 23,
+					"exerciseId": 13,
 					"id": 1,
 					"setIds": [
 						206,
 						207,
-						208
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 24,
-					"id": 2,
-					"setIds": [
+						208,
 						209,
 						210,
-						211
-					]
-				},
-				{
-					"comments": "Really need to practice flexibility",
-					"exerciseId": 25,
-					"id": 3,
-					"setIds": [
+						211,
 						212,
 						213,
-						214,
 						214
 					]
 				},
 				{
-					"comments": "High bar squat ",
-					"exerciseId": 0,
-					"id": 4,
+					"comments": "",
+					"exerciseId": 17,
+					"id": 2,
 					"setIds": [
 						215,
 						216,
-						216
-					]
-				},
-				{
-					"comments": "Single leg. Left struggled at the end so maybe I shut start with left first",
-					"exerciseId": 26,
-					"id": 5,
-					"setIds": [
-						217,
-						218,
-						218
-					]
-				},
-				{
-					"comments": "Bad ROM - 1st set",
-					"exerciseId": 27,
-					"id": 6,
-					"setIds": [
-						219,
-						220,
-						221,
-						221
+						217
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 28,
+					"exerciseId": 18,
+					"id": 3,
+					"setIds": [
+						218,
+						219,
+						220
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 19,
+					"id": 4,
+					"setIds": [
+						221,
+						222,
+						223
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 20,
+					"id": 5,
+					"setIds": [
+						224,
+						225,
+						226
+					]
+				},
+				{
+					"comments": "Triceps left the building ",
+					"exerciseId": 21,
+					"id": 6,
+					"setIds": [
+						227,
+						228,
+						229,
+						229
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 22,
 					"id": 7,
 					"setIds": [
-						222,
-						223,
-						224
+						230,
+						231,
+						232
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 14,
+					"id": 8,
+					"setIds": [
+						233,
+						234
+					]
+				},
+				{
+					"comments": "Standing single arm",
+					"exerciseId": 23,
+					"id": 9,
+					"setIds": [
+						235,
+						236,
+						236
+					]
+				},
+				{
+					"comments": "Single arm",
+					"exerciseId": 24,
+					"id": 10,
+					"setIds": [
+						237,
+						238,
+						238
 					]
 				}
 			],
@@ -5134,39 +5288,10 @@
 			"dateId": 6,
 			"exercises": [
 				{
-					"comments": "Right elbow slightly unhappy. Got that 'weak' feeling in my right bicep. Likely due to tightness, too much weight on arms, no warmup",
-					"exerciseId": 0,
+					"comments": "New 5x5 PR! So close to 2 plates I can almost taste it! Form feeling better but I may be sacrificing depth a little ",
+					"exerciseId": 9,
 					"id": 0,
 					"setIds": [
-						225,
-						226,
-						227,
-						228,
-						229,
-						230,
-						231,
-						232,
-						233,
-						233
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 5,
-					"id": 1,
-					"setIds": [
-						234,
-						235,
-						236,
-						237
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 6,
-					"id": 2,
-					"setIds": [
-						238,
 						239,
 						240,
 						241,
@@ -5174,47 +5299,82 @@
 						243,
 						244,
 						245,
-						246
-					]
-				},
-				{
-					"comments": "Deload to 145. In it for the long run, no shortcuts",
-					"exerciseId": 2,
-					"id": 3,
-					"setIds": [
+						246,
 						247,
 						248,
-						249,
-						250,
-						251,
-						252,
-						253,
-						254,
-						254
+						248
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 7,
-					"id": 4,
+					"exerciseId": 25,
+					"id": 1,
+					"setIds": [
+						249,
+						250,
+						251
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 26,
+					"id": 2,
+					"setIds": [
+						252,
+						253,
+						254
+					]
+				},
+				{
+					"comments": "Really need to practice flexibility",
+					"exerciseId": 27,
+					"id": 3,
 					"setIds": [
 						255,
 						256,
+						257,
 						257
 					]
 				},
 				{
-					"comments": "Sets 2 + 3 and 4 + 5 + 6 = drop sets ",
-					"exerciseId": 29,
-					"id": 5,
+					"comments": "High bar squat ",
+					"exerciseId": 9,
+					"id": 4,
 					"setIds": [
 						258,
 						259,
+						259
+					]
+				},
+				{
+					"comments": "Single leg. Left struggled at the end so maybe I shut start with left first",
+					"exerciseId": 28,
+					"id": 5,
+					"setIds": [
 						260,
 						261,
+						261
+					]
+				},
+				{
+					"comments": "Bad ROM - 1st set",
+					"exerciseId": 29,
+					"id": 6,
+					"setIds": [
 						262,
 						263,
-						263
+						264,
+						264
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 30,
+					"id": 7,
+					"setIds": [
+						265,
+						266,
+						267
 					]
 				}
 			],
@@ -5224,43 +5384,39 @@
 			"dateId": 7,
 			"exercises": [
 				{
-					"comments": "I died. Insanely tough. Definitely a few not so great reps. New 5x5 PR though!",
-					"exerciseId": 0,
+					"comments": "Right elbow slightly unhappy. Got that 'weak' feeling in my right bicep. Likely due to tightness, too much weight on arms, no warmup",
+					"exerciseId": 9,
 					"id": 0,
 					"setIds": [
-						264,
-						265,
-						266,
-						267,
 						268,
 						269,
 						270,
 						271,
 						272,
-						272
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 1,
-					"id": 1,
-					"setIds": [
 						273,
 						274,
 						275,
 						276,
-						277,
-						278,
-						279,
-						280,
-						281
+						276
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 2,
+					"exerciseId": 0,
+					"id": 1,
+					"setIds": [
+						277,
+						278,
+						279,
+						280
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 13,
 					"id": 2,
 					"setIds": [
+						281,
 						282,
 						283,
 						284,
@@ -5272,34 +5428,43 @@
 					]
 				},
 				{
-					"comments": "Sick  of guessing, I weighed the bar. Must have looked hilarious but fuck it. The bar weighs 60-65 lbs! I was way off! Going with 60 lbs as of today.",
-					"exerciseId": 8,
+					"comments": "Deload to 145. In it for the long run, no shortcuts",
+					"exerciseId": 1,
 					"id": 3,
 					"setIds": [
 						290,
 						291,
 						292,
-						292
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 19,
-					"id": 4,
-					"setIds": [
 						293,
 						294,
-						295
+						295,
+						296,
+						297,
+						297
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 29,
+					"exerciseId": 14,
+					"id": 4,
+					"setIds": [
+						298,
+						299,
+						300
+					]
+				},
+				{
+					"comments": "Sets 2 + 3 and 4 + 5 + 6 = drop sets ",
+					"exerciseId": 31,
 					"id": 5,
 					"setIds": [
-						296,
-						297,
-						298
+						301,
+						302,
+						303,
+						304,
+						305,
+						306,
+						306
 					]
 				}
 			],
@@ -5309,73 +5474,82 @@
 			"dateId": 8,
 			"exercises": [
 				{
-					"comments": "Form feeling off. As much as I really want to break this plateau, I think the same solution is deload by 15-20% and build up again.",
-					"exerciseId": 0,
+					"comments": "I died. Insanely tough. Definitely a few not so great reps. New 5x5 PR though!",
+					"exerciseId": 9,
 					"id": 0,
 					"setIds": [
-						299,
-						300,
-						301,
-						302,
-						303,
-						304,
-						305,
-						306,
 						307,
-						307
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 5,
-					"id": 1,
-					"setIds": [
 						308,
 						309,
 						310,
 						311,
-						312
+						312,
+						313,
+						314,
+						315,
+						315
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 6,
-					"id": 2,
+					"exerciseId": 10,
+					"id": 1,
 					"setIds": [
-						313,
-						314,
-						315,
 						316,
 						317,
 						318,
 						319,
 						320,
-						321
+						321,
+						322,
+						323,
+						324
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 2,
-					"id": 3,
+					"exerciseId": 1,
+					"id": 2,
 					"setIds": [
-						322,
-						323,
-						324,
 						325,
 						326,
 						327,
 						328,
-						329
+						329,
+						330,
+						331,
+						332
+					]
+				},
+				{
+					"comments": "Sick  of guessing, I weighed the bar. Must have looked hilarious but fuck it. The bar weighs 60-65 lbs! I was way off! Going with 60 lbs as of today.",
+					"exerciseId": 4,
+					"id": 3,
+					"setIds": [
+						333,
+						334,
+						335,
+						335
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 7,
+					"exerciseId": 21,
 					"id": 4,
 					"setIds": [
-						330,
-						331,
-						332
+						336,
+						337,
+						338
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 31,
+					"id": 5,
+					"setIds": [
+						339,
+						340,
+						341
 					]
 				}
 			],
@@ -5385,26 +5559,9 @@
 			"dateId": 9,
 			"exercises": [
 				{
-					"comments": "Played soccer for the first time in years on Saturday. Crazy DOMS = not able to perform at my best",
-					"exerciseId": 0,
+					"comments": "Form feeling off. As much as I really want to break this plateau, I think the same solution is deload by 15-20% and build up again.",
+					"exerciseId": 9,
 					"id": 0,
-					"setIds": [
-						333,
-						334,
-						335,
-						336,
-						337,
-						338,
-						339,
-						340,
-						341,
-						341
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 1,
-					"id": 1,
 					"setIds": [
 						342,
 						343,
@@ -5414,40 +5571,33 @@
 						347,
 						348,
 						349,
+						350,
 						350
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 2,
-					"id": 2,
+					"exerciseId": 0,
+					"id": 1,
 					"setIds": [
 						351,
 						352,
 						353,
 						354,
-						355,
-						356,
-						357,
-						358
-					]
-				},
-				{
-					"comments": "Heavy 35lb bar. Not getting full ROM. Will try same weight for 2 weeks maybe ",
-					"exerciseId": 8,
-					"id": 3,
-					"setIds": [
-						359,
-						360,
-						361,
-						361
+						355
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 19,
-					"id": 4,
+					"exerciseId": 13,
+					"id": 2,
 					"setIds": [
+						356,
+						357,
+						358,
+						359,
+						360,
+						361,
 						362,
 						363,
 						364
@@ -5455,12 +5605,27 @@
 				},
 				{
 					"comments": "",
-					"exerciseId": 29,
-					"id": 5,
+					"exerciseId": 1,
+					"id": 3,
 					"setIds": [
 						365,
 						366,
-						367
+						367,
+						368,
+						369,
+						370,
+						371,
+						372
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 14,
+					"id": 4,
+					"setIds": [
+						373,
+						374,
+						375
 					]
 				}
 			],
@@ -5470,25 +5635,10 @@
 			"dateId": 10,
 			"exercises": [
 				{
-					"comments": "",
-					"exerciseId": 5,
+					"comments": "Played soccer for the first time in years on Saturday. Crazy DOMS = not able to perform at my best",
+					"exerciseId": 9,
 					"id": 0,
 					"setIds": [
-						368,
-						369,
-						370,
-						371,
-						372,
-						373
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 2,
-					"id": 1,
-					"setIds": [
-						374,
-						375,
 						376,
 						377,
 						378,
@@ -5496,74 +5646,71 @@
 						380,
 						381,
 						382,
-						383
+						383,
+						384,
+						384
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 11,
-					"id": 2,
+					"exerciseId": 10,
+					"id": 1,
 					"setIds": [
-						384,
 						385,
 						386,
-						387
-					]
-				},
-				{
-					"comments": "Close grip palms facing each other",
-					"exerciseId": 12,
-					"id": 3,
-					"setIds": [
+						387,
 						388,
 						389,
 						390,
-						390
-					]
-				},
-				{
-					"comments": "larger hex bar that weighs about 35 lbs",
-					"exerciseId": 8,
-					"id": 4,
-					"setIds": [
 						391,
 						392,
-						393,
 						393
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 29,
-					"id": 5,
+					"exerciseId": 1,
+					"id": 2,
 					"setIds": [
 						394,
 						395,
 						396,
 						397,
 						398,
-						399
+						399,
+						400,
+						401
+					]
+				},
+				{
+					"comments": "Heavy 35lb bar. Not getting full ROM. Will try same weight for 2 weeks maybe ",
+					"exerciseId": 4,
+					"id": 3,
+					"setIds": [
+						402,
+						403,
+						404,
+						404
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 30,
-					"id": 6,
+					"exerciseId": 21,
+					"id": 4,
 					"setIds": [
-						400,
-						401,
-						402
+						405,
+						406,
+						407
 					]
 				},
 				{
 					"comments": "",
 					"exerciseId": 31,
-					"id": 7,
+					"id": 5,
 					"setIds": [
-						403,
-						404,
-						405,
-						406
+						408,
+						409,
+						410
 					]
 				}
 			],
@@ -5573,84 +5720,100 @@
 			"dateId": 11,
 			"exercises": [
 				{
-					"comments": "Form feeling a little off. Feels like I'm cheating a little  by moving my torso instead of driving down with my glutes ",
+					"comments": "",
 					"exerciseId": 0,
 					"id": 0,
 					"setIds": [
-						407,
-						408,
-						409,
-						410,
 						411,
 						412,
 						413,
 						414,
-						414
+						415,
+						416
 					]
 				},
 				{
-					"comments": "Last rep didn't feel so good. Worth trying again at this weight instead of progressing ",
-					"exerciseId": 5,
+					"comments": "",
+					"exerciseId": 1,
 					"id": 1,
 					"setIds": [
-						415,
-						416,
 						417,
 						418,
-						418
-					]
-				},
-				{
-					"comments": "Tried high bar for the first time",
-					"exerciseId": 0,
-					"id": 2,
-					"setIds": [
 						419,
 						420,
 						421,
-						421
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 23,
-					"id": 3,
-					"setIds": [
 						422,
 						423,
-						424
+						424,
+						425,
+						426
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 24,
-					"id": 4,
+					"exerciseId": 2,
+					"id": 2,
 					"setIds": [
-						425,
-						426,
 						427,
 						428,
-						429
+						429,
+						430
+					]
+				},
+				{
+					"comments": "Close grip palms facing each other",
+					"exerciseId": 3,
+					"id": 3,
+					"setIds": [
+						431,
+						432,
+						433,
+						433
+					]
+				},
+				{
+					"comments": "larger hex bar that weighs about 35 lbs",
+					"exerciseId": 4,
+					"id": 4,
+					"setIds": [
+						434,
+						435,
+						436,
+						436
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 27,
+					"exerciseId": 31,
 					"id": 5,
 					"setIds": [
-						430,
-						431,
-						432
+						437,
+						438,
+						439,
+						440,
+						441,
+						442
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 28,
+					"exerciseId": 32,
 					"id": 6,
 					"setIds": [
-						433,
-						434,
-						435
+						443,
+						444,
+						445
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 6,
+					"id": 7,
+					"setIds": [
+						446,
+						447,
+						448,
+						449
 					]
 				}
 			],
@@ -5660,122 +5823,82 @@
 			"dateId": 12,
 			"exercises": [
 				{
-					"comments": "",
-					"exerciseId": 1,
+					"comments": "Form feeling a little off. Feels like I'm cheating a little  by moving my torso instead of driving down with my glutes ",
+					"exerciseId": 9,
 					"id": 0,
 					"setIds": [
-						436,
-						437,
-						438,
-						439,
-						440,
-						441,
-						442,
-						443,
-						444
-					]
-				},
-				{
-					"comments": "Fucking ego. Deload and get 5x5!!",
-					"exerciseId": 6,
-					"id": 1,
-					"setIds": [
-						445,
-						446,
-						447,
-						448,
-						449,
 						450,
 						451,
 						452,
-						452
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 16,
-					"id": 2,
-					"setIds": [
 						453,
 						454,
-						455
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 15,
-					"id": 3,
-					"setIds": [
+						455,
 						456,
 						457,
-						458
+						457
 					]
 				},
 				{
-					"comments": "",
-					"exerciseId": 32,
-					"id": 4,
+					"comments": "Last rep didn't feel so good. Worth trying again at this weight instead of progressing ",
+					"exerciseId": 0,
+					"id": 1,
 					"setIds": [
+						458,
 						459,
 						460,
 						461,
-						462
+						461
 					]
 				},
 				{
-					"comments": "",
-					"exerciseId": 18,
-					"id": 5,
+					"comments": "Tried high bar for the first time",
+					"exerciseId": 9,
+					"id": 2,
 					"setIds": [
+						462,
 						463,
 						464,
-						465
+						464
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 20,
+					"exerciseId": 25,
+					"id": 3,
+					"setIds": [
+						465,
+						466,
+						467
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 26,
+					"id": 4,
+					"setIds": [
+						468,
+						469,
+						470,
+						471,
+						472
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 29,
+					"id": 5,
+					"setIds": [
+						473,
+						474,
+						475
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 30,
 					"id": 6,
 					"setIds": [
-						466,
-						467,
-						468
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 17,
-					"id": 7,
-					"setIds": [
-						469,
-						470
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 19,
-					"id": 8,
-					"setIds": [
-						471,
-						472,
-						473
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 7,
-					"id": 9,
-					"setIds": [
-						474,
-						475,
-						476
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 4,
-					"id": 10,
-					"setIds": [
+						476,
 						477,
 						478
 					]
@@ -5788,7 +5911,7 @@
 			"exercises": [
 				{
 					"comments": "",
-					"exerciseId": 0,
+					"exerciseId": 10,
 					"id": 0,
 					"setIds": [
 						479,
@@ -5803,8 +5926,8 @@
 					]
 				},
 				{
-					"comments": "Had a spotter who didn't have to do much at all 3rd and 5th working set",
-					"exerciseId": 1,
+					"comments": "Fucking ego. Deload and get 5x5!!",
+					"exerciseId": 13,
 					"id": 1,
 					"setIds": [
 						488,
@@ -5815,20 +5938,34 @@
 						493,
 						494,
 						495,
-						496,
-						496
+						495
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 2,
+					"exerciseId": 18,
 					"id": 2,
 					"setIds": [
+						496,
 						497,
-						498,
+						498
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 17,
+					"id": 3,
+					"setIds": [
 						499,
 						500,
-						501,
+						501
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 33,
+					"id": 4,
+					"setIds": [
 						502,
 						503,
 						504,
@@ -5836,20 +5973,19 @@
 					]
 				},
 				{
-					"comments": "Assumption: small trap bar weighs 25 lbs",
-					"exerciseId": 8,
-					"id": 3,
+					"comments": "",
+					"exerciseId": 20,
+					"id": 5,
 					"setIds": [
 						506,
 						507,
-						508,
 						508
 					]
 				},
 				{
 					"comments": "",
-					"exerciseId": 19,
-					"id": 4,
+					"exerciseId": 22,
+					"id": 6,
 					"setIds": [
 						509,
 						510,
@@ -5858,13 +5994,40 @@
 				},
 				{
 					"comments": "",
-					"exerciseId": 29,
-					"id": 5,
+					"exerciseId": 19,
+					"id": 7,
 					"setIds": [
 						512,
-						513,
+						513
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 21,
+					"id": 8,
+					"setIds": [
 						514,
-						515
+						515,
+						516
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 14,
+					"id": 9,
+					"setIds": [
+						517,
+						518,
+						519
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 12,
+					"id": 10,
+					"setIds": [
+						520,
+						521
 					]
 				}
 			],
@@ -5875,38 +6038,25 @@
 			"exercises": [
 				{
 					"comments": "",
-					"exerciseId": 0,
+					"exerciseId": 9,
 					"id": 0,
 					"setIds": [
-						516,
-						517,
-						518,
-						519,
-						520,
-						521,
 						522,
 						523,
-						524
-					]
-				},
-				{
-					"comments": "",
-					"exerciseId": 5,
-					"id": 1,
-					"setIds": [
+						524,
 						525,
 						526,
 						527,
 						528,
-						529
+						529,
+						530
 					]
 				},
 				{
-					"comments": "",
-					"exerciseId": 6,
-					"id": 2,
+					"comments": "Had a spotter who didn't have to do much at all 3rd and 5th working set",
+					"exerciseId": 10,
+					"id": 1,
 					"setIds": [
-						530,
 						531,
 						532,
 						533,
@@ -5914,19 +6064,57 @@
 						535,
 						536,
 						537,
-						538
+						538,
+						539,
+						539
 					]
 				},
 				{
-					"comments": "Note to self: focus on form and microload. 5lb increments breaking form like nobody's business",
-					"exerciseId": 2,
-					"id": 3,
+					"comments": "",
+					"exerciseId": 1,
+					"id": 2,
 					"setIds": [
-						539,
 						540,
 						541,
 						542,
-						542
+						543,
+						544,
+						545,
+						546,
+						547,
+						548
+					]
+				},
+				{
+					"comments": "Assumption: small trap bar weighs 25 lbs",
+					"exerciseId": 4,
+					"id": 3,
+					"setIds": [
+						549,
+						550,
+						551,
+						551
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 21,
+					"id": 4,
+					"setIds": [
+						552,
+						553,
+						554
+					]
+				},
+				{
+					"comments": "",
+					"exerciseId": 31,
+					"id": 5,
+					"setIds": [
+						555,
+						556,
+						557,
+						558
 					]
 				}
 			],
