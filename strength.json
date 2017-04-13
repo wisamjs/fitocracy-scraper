@@ -1,0 +1,656 @@
+{
+	"exercises": [
+		{
+			"id": 0,
+			"name": "Back Squat"
+		},
+		{
+			"id": 1,
+			"name": "Front Squat"
+		},
+		{
+			"id": 2,
+			"name": "Deadlift"
+		},
+		{
+			"id": 3,
+			"name": "Sumo Deadlift"
+		},
+		{
+			"id": 4,
+			"name": "Power Clean"
+		},
+		{
+			"id": 5,
+			"name": "Bench Press"
+		},
+		{
+			"id": 6,
+			"name": "Incline Bench Press"
+		},
+		{
+			"id": 7,
+			"name": "Dip"
+		},
+		{
+			"id": 8,
+			"name": "Overhead Press"
+		},
+		{
+			"id": 9,
+			"name": "Push Press"
+		},
+		{
+			"id": 10,
+			"name": "Snatch Press"
+		},
+		{
+			"id": 11,
+			"name": "Chin-up"
+		},
+		{
+			"id": 12,
+			"name": "Pull-up"
+		},
+		{
+			"id": 13,
+			"name": "Pendlay Row"
+		}
+	],
+	"levels": [
+		{
+			"id": 0,
+			"name": "Untrained "
+		},
+		{
+			"id": 1,
+			"name": "Novice "
+		},
+		{
+			"id": 2,
+			"name": "Intermediate "
+		},
+		{
+			"id": 3,
+			"name": "Proficient "
+		},
+		{
+			"id": 4,
+			"name": "Advanced "
+		},
+		{
+			"id": 5,
+			"name": "Exceptional "
+		},
+		{
+			"id": 6,
+			"name": "Elite "
+		},
+		{
+			"id": 7,
+			"name": "World class "
+		}
+	],
+	"standards": [
+		{
+			"exerciseId": 0,
+			"levelId": 1,
+			"standard": "115 lbs"
+		},
+		{
+			"exerciseId": 1,
+			"levelId": 1,
+			"standard": "90 lbs"
+		},
+		{
+			"exerciseId": 2,
+			"levelId": 1,
+			"standard": "130 lbs"
+		},
+		{
+			"exerciseId": 3,
+			"levelId": 1,
+			"standard": "130 lbs"
+		},
+		{
+			"exerciseId": 4,
+			"levelId": 1,
+			"standard": "75 lbs"
+		},
+		{
+			"exerciseId": 5,
+			"levelId": 1,
+			"standard": "85 lbs"
+		},
+		{
+			"exerciseId": 6,
+			"levelId": 1,
+			"standard": "70 lbs"
+		},
+		{
+			"exerciseId": 7,
+			"levelId": 1,
+			"standard": "-10 lbs"
+		},
+		{
+			"exerciseId": 8,
+			"levelId": 1,
+			"standard": "55 lbs"
+		},
+		{
+			"exerciseId": 9,
+			"levelId": 1,
+			"standard": "75 lbs"
+		},
+		{
+			"exerciseId": 10,
+			"levelId": 1,
+			"standard": "45 lbs"
+		},
+		{
+			"exerciseId": 11,
+			"levelId": 1,
+			"standard": "-20 lbs"
+		},
+		{
+			"exerciseId": 12,
+			"levelId": 1,
+			"standard": "-25 lbs"
+		},
+		{
+			"exerciseId": 13,
+			"levelId": 1,
+			"standard": "70 lbs"
+		},
+		{
+			"exerciseId": 0,
+			"levelId": 2,
+			"standard": "175 lbs"
+		},
+		{
+			"exerciseId": 1,
+			"levelId": 2,
+			"standard": "140 lbs"
+		},
+		{
+			"exerciseId": 2,
+			"levelId": 2,
+			"standard": "200 lbs"
+		},
+		{
+			"exerciseId": 3,
+			"levelId": 2,
+			"standard": "200 lbs"
+		},
+		{
+			"exerciseId": 4,
+			"levelId": 2,
+			"standard": "110 lbs"
+		},
+		{
+			"exerciseId": 5,
+			"levelId": 2,
+			"standard": "130 lbs"
+		},
+		{
+			"exerciseId": 6,
+			"levelId": 2,
+			"standard": "105 lbs"
+		},
+		{
+			"exerciseId": 7,
+			"levelId": 2,
+			"standard": "+20 lbs"
+		},
+		{
+			"exerciseId": 8,
+			"levelId": 2,
+			"standard": "85 lbs"
+		},
+		{
+			"exerciseId": 9,
+			"levelId": 2,
+			"standard": "110 lbs"
+		},
+		{
+			"exerciseId": 10,
+			"levelId": 2,
+			"standard": "65 lbs"
+		},
+		{
+			"exerciseId": 11,
+			"levelId": 2,
+			"standard": "+0 lbs"
+		},
+		{
+			"exerciseId": 12,
+			"levelId": 2,
+			"standard": "-5 lbs"
+		},
+		{
+			"exerciseId": 13,
+			"levelId": 2,
+			"standard": "105 lbs"
+		},
+		{
+			"exerciseId": 0,
+			"levelId": 3,
+			"standard": "230 lbs"
+		},
+		{
+			"exerciseId": 1,
+			"levelId": 3,
+			"standard": "185 lbs"
+		},
+		{
+			"exerciseId": 2,
+			"levelId": 3,
+			"standard": "265 lbs"
+		},
+		{
+			"exerciseId": 3,
+			"levelId": 3,
+			"standard": "265 lbs"
+		},
+		{
+			"exerciseId": 4,
+			"levelId": 3,
+			"standard": "150 lbs"
+		},
+		{
+			"exerciseId": 5,
+			"levelId": 3,
+			"standard": "170 lbs"
+		},
+		{
+			"exerciseId": 6,
+			"levelId": 3,
+			"standard": "140 lbs"
+		},
+		{
+			"exerciseId": 7,
+			"levelId": 3,
+			"standard": "+50 lbs"
+		},
+		{
+			"exerciseId": 8,
+			"levelId": 3,
+			"standard": "110 lbs"
+		},
+		{
+			"exerciseId": 9,
+			"levelId": 3,
+			"standard": "150 lbs"
+		},
+		{
+			"exerciseId": 10,
+			"levelId": 3,
+			"standard": "90 lbs"
+		},
+		{
+			"exerciseId": 11,
+			"levelId": 3,
+			"standard": "+25 lbs"
+		},
+		{
+			"exerciseId": 12,
+			"levelId": 3,
+			"standard": "+20 lbs"
+		},
+		{
+			"exerciseId": 13,
+			"levelId": 3,
+			"standard": "140 lbs"
+		},
+		{
+			"exerciseId": 0,
+			"levelId": 4,
+			"standard": "290 lbs"
+		},
+		{
+			"exerciseId": 1,
+			"levelId": 4,
+			"standard": "230 lbs"
+		},
+		{
+			"exerciseId": 2,
+			"levelId": 4,
+			"standard": "330 lbs"
+		},
+		{
+			"exerciseId": 3,
+			"levelId": 4,
+			"standard": "330 lbs"
+		},
+		{
+			"exerciseId": 4,
+			"levelId": 4,
+			"standard": "185 lbs"
+		},
+		{
+			"exerciseId": 5,
+			"levelId": 4,
+			"standard": "215 lbs"
+		},
+		{
+			"exerciseId": 6,
+			"levelId": 4,
+			"standard": "175 lbs"
+		},
+		{
+			"exerciseId": 7,
+			"levelId": 4,
+			"standard": "+85 lbs"
+		},
+		{
+			"exerciseId": 8,
+			"levelId": 4,
+			"standard": "140 lbs"
+		},
+		{
+			"exerciseId": 9,
+			"levelId": 4,
+			"standard": "185 lbs"
+		},
+		{
+			"exerciseId": 10,
+			"levelId": 4,
+			"standard": "110 lbs"
+		},
+		{
+			"exerciseId": 11,
+			"levelId": 4,
+			"standard": "+50 lbs"
+		},
+		{
+			"exerciseId": 12,
+			"levelId": 4,
+			"standard": "+45 lbs"
+		},
+		{
+			"exerciseId": 13,
+			"levelId": 4,
+			"standard": "175 lbs"
+		},
+		{
+			"exerciseId": 0,
+			"levelId": 5,
+			"standard": "335 lbs"
+		},
+		{
+			"exerciseId": 1,
+			"levelId": 5,
+			"standard": "270 lbs"
+		},
+		{
+			"exerciseId": 2,
+			"levelId": 5,
+			"standard": "385 lbs"
+		},
+		{
+			"exerciseId": 3,
+			"levelId": 5,
+			"standard": "385 lbs"
+		},
+		{
+			"exerciseId": 4,
+			"levelId": 5,
+			"standard": "215 lbs"
+		},
+		{
+			"exerciseId": 5,
+			"levelId": 5,
+			"standard": "250 lbs"
+		},
+		{
+			"exerciseId": 6,
+			"levelId": 5,
+			"standard": "205 lbs"
+		},
+		{
+			"exerciseId": 7,
+			"levelId": 5,
+			"standard": "+115 lbs"
+		},
+		{
+			"exerciseId": 8,
+			"levelId": 5,
+			"standard": "165 lbs"
+		},
+		{
+			"exerciseId": 9,
+			"levelId": 5,
+			"standard": "215 lbs"
+		},
+		{
+			"exerciseId": 10,
+			"levelId": 5,
+			"standard": "130 lbs"
+		},
+		{
+			"exerciseId": 11,
+			"levelId": 5,
+			"standard": "+75 lbs"
+		},
+		{
+			"exerciseId": 12,
+			"levelId": 5,
+			"standard": "+70 lbs"
+		},
+		{
+			"exerciseId": 13,
+			"levelId": 5,
+			"standard": "205 lbs"
+		},
+		{
+			"exerciseId": 0,
+			"levelId": 6,
+			"standard": "385 lbs"
+		},
+		{
+			"exerciseId": 1,
+			"levelId": 6,
+			"standard": "305 lbs"
+		},
+		{
+			"exerciseId": 2,
+			"levelId": 6,
+			"standard": "440 lbs"
+		},
+		{
+			"exerciseId": 3,
+			"levelId": 6,
+			"standard": "440 lbs"
+		},
+		{
+			"exerciseId": 4,
+			"levelId": 6,
+			"standard": "245 lbs"
+		},
+		{
+			"exerciseId": 5,
+			"levelId": 6,
+			"standard": "285 lbs"
+		},
+		{
+			"exerciseId": 6,
+			"levelId": 6,
+			"standard": "235 lbs"
+		},
+		{
+			"exerciseId": 7,
+			"levelId": 6,
+			"standard": "+145 lbs"
+		},
+		{
+			"exerciseId": 8,
+			"levelId": 6,
+			"standard": "185 lbs"
+		},
+		{
+			"exerciseId": 9,
+			"levelId": 6,
+			"standard": "250 lbs"
+		},
+		{
+			"exerciseId": 10,
+			"levelId": 6,
+			"standard": "150 lbs"
+		},
+		{
+			"exerciseId": 11,
+			"levelId": 6,
+			"standard": "+105 lbs"
+		},
+		{
+			"exerciseId": 12,
+			"levelId": 6,
+			"standard": "+95 lbs"
+		},
+		{
+			"exerciseId": 13,
+			"levelId": 6,
+			"standard": "235 lbs"
+		},
+		{
+			"exerciseId": 0,
+			"levelId": 7,
+			"standard": "430 lbs"
+		},
+		{
+			"exerciseId": 1,
+			"levelId": 7,
+			"standard": "345 lbs"
+		},
+		{
+			"exerciseId": 2,
+			"levelId": 7,
+			"standard": "495 lbs"
+		},
+		{
+			"exerciseId": 3,
+			"levelId": 7,
+			"standard": "495 lbs"
+		},
+		{
+			"exerciseId": 4,
+			"levelId": 7,
+			"standard": "280 lbs"
+		},
+		{
+			"exerciseId": 5,
+			"levelId": 7,
+			"standard": "320 lbs"
+		},
+		{
+			"exerciseId": 6,
+			"levelId": 7,
+			"standard": "265 lbs"
+		},
+		{
+			"exerciseId": 7,
+			"levelId": 7,
+			"standard": "+175 lbs"
+		},
+		{
+			"exerciseId": 8,
+			"levelId": 7,
+			"standard": "210 lbs"
+		},
+		{
+			"exerciseId": 9,
+			"levelId": 7,
+			"standard": "280 lbs"
+		},
+		{
+			"exerciseId": 10,
+			"levelId": 7,
+			"standard": "170 lbs"
+		},
+		{
+			"exerciseId": 11,
+			"levelId": 7,
+			"standard": "+125 lbs"
+		},
+		{
+			"exerciseId": 12,
+			"levelId": 7,
+			"standard": "+115 lbs"
+		},
+		{
+			"exerciseId": 13,
+			"levelId": 7,
+			"standard": "265 lbs"
+		},
+		{
+			"exerciseId": 0,
+			"levelId": 8,
+			"standard": "480 lbs"
+		},
+		{
+			"exerciseId": 1,
+			"levelId": 8,
+			"standard": "385 lbs"
+		},
+		{
+			"exerciseId": 2,
+			"levelId": 8,
+			"standard": "550 lbs"
+		},
+		{
+			"exerciseId": 3,
+			"levelId": 8,
+			"standard": "550 lbs"
+		},
+		{
+			"exerciseId": 4,
+			"levelId": 8,
+			"standard": "310 lbs"
+		},
+		{
+			"exerciseId": 5,
+			"levelId": 8,
+			"standard": "360 lbs"
+		},
+		{
+			"exerciseId": 6,
+			"levelId": 8,
+			"standard": "295 lbs"
+		},
+		{
+			"exerciseId": 7,
+			"levelId": 8,
+			"standard": "+205 lbs"
+		},
+		{
+			"exerciseId": 8,
+			"levelId": 8,
+			"standard": "235 lbs"
+		},
+		{
+			"exerciseId": 9,
+			"levelId": 8,
+			"standard": "310 lbs"
+		},
+		{
+			"exerciseId": 10,
+			"levelId": 8,
+			"standard": "185 lbs"
+		},
+		{
+			"exerciseId": 11,
+			"levelId": 8,
+			"standard": "+145 lbs"
+		},
+		{
+			"exerciseId": 12,
+			"levelId": 8,
+			"standard": "+135 lbs"
+		},
+		{
+			"exerciseId": 13,
+			"levelId": 8,
+			"standard": "290 lbs"
+		}
+	]
+}
